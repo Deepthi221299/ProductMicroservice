@@ -1,0 +1,330 @@
+INFO  12:01:45 Application started. Press Ctrl+C to shut down.
+INFO  12:01:45 Hosting environment: Development
+INFO  12:01:45 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  12:01:51 Logger initiated
+INFO  12:01:51 Loading all available products
+INFO  02:32:07 Application started. Press Ctrl+C to shut down.
+INFO  02:32:07 Hosting environment: Development
+INFO  02:32:07 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  02:32:22 Logger initiated
+INFO  02:32:22 Loading all available products
+INFO  02:34:17 Application started. Press Ctrl+C to shut down.
+INFO  02:34:17 Hosting environment: Development
+INFO  02:34:17 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  02:34:23 Logger initiated
+INFO  02:34:23 Loading all available products
+INFO  02:34:32 Logger initiated
+INFO  02:34:32 Searching Product by productId
+INFO  02:34:41 Logger initiated
+INFO  02:34:41 Searching Product by productId
+INFO  02:35:37 Logger initiated
+INFO  02:35:37 Searching product by product name
+INFO  02:35:47 Logger initiated
+INFO  02:35:47 Searching product by product name
+INFO  02:35:57 Logger initiated
+INFO  02:35:57 Searching product by product name
+INFO  02:36:24 Logger initiated
+INFO  02:36:24 Searching product by product name
+INFO  02:38:13 Logger initiated
+INFO  02:38:13 ProductRating
+INFO  02:38:23 Logger initiated
+INFO  02:38:23 Loading all available products
+INFO  04:12:41 Application started. Press Ctrl+C to shut down.
+INFO  04:12:41 Hosting environment: Development
+INFO  04:12:41 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:12:59 Logger initiated
+INFO  04:12:59 Searching Product by productId
+INFO  04:14:34 Application started. Press Ctrl+C to shut down.
+INFO  04:14:34 Hosting environment: Development
+INFO  04:14:34 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:14:44 Logger initiated
+INFO  04:14:44 Loading all available products
+INFO  04:14:51 Logger initiated
+INFO  04:14:51 Searching Product by productId
+INFO  04:15:17 Logger initiated
+INFO  04:15:17 Searching Product by productId
+INFO  04:17:32 Application started. Press Ctrl+C to shut down.
+INFO  04:17:32 Hosting environment: Development
+INFO  04:17:32 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:17:43 Logger initiated
+INFO  04:17:43 Searching Product by productId
+INFO  04:20:22 Application started. Press Ctrl+C to shut down.
+INFO  04:20:22 Hosting environment: Development
+INFO  04:20:22 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:20:30 Logger initiated
+INFO  04:20:31 Searching Product by productId
+INFO  04:25:53 Application started. Press Ctrl+C to shut down.
+INFO  04:25:53 Hosting environment: Development
+INFO  04:25:53 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:26:03 Logger initiated
+INFO  04:30:17 Application started. Press Ctrl+C to shut down.
+INFO  04:30:17 Hosting environment: Development
+INFO  04:30:17 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:30:25 Logger initiated
+INFO  04:47:44 Application started. Press Ctrl+C to shut down.
+INFO  04:47:44 Hosting environment: Development
+INFO  04:47:44 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:47:53 Logger initiated
+INFO  04:47:53 Loading all available products
+INFO  04:48:06 Logger initiated
+INFO  04:48:06 Searching Product by productId
+INFO  04:48:21 Logger initiated
+INFO  04:48:21 Searching Product by productId
+INFO  04:51:11 Application started. Press Ctrl+C to shut down.
+INFO  04:51:11 Hosting environment: Development
+INFO  04:51:11 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:51:21 Logger initiated
+INFO  04:51:21 Searching Product by productId
+INFO  05:00:06 Application started. Press Ctrl+C to shut down.
+INFO  05:00:06 Hosting environment: Development
+INFO  05:00:06 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:00:14 Logger initiated
+INFO  05:00:14 Searching Product by productId
+INFO  05:01:21 Application started. Press Ctrl+C to shut down.
+INFO  05:01:21 Hosting environment: Development
+INFO  05:01:21 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:01:26 Logger initiated
+INFO  05:01:26 Searching Product by productId
+INFO  05:15:34 Application started. Press Ctrl+C to shut down.
+INFO  05:15:35 Hosting environment: Development
+INFO  05:15:35 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:16:15 Logger initiated
+INFO  05:16:15 Searching Product by productId
+INFO  05:19:12 Application started. Press Ctrl+C to shut down.
+INFO  05:19:12 Hosting environment: Development
+INFO  05:19:12 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:19:30 Logger initiated
+INFO  05:19:30 Searching Product by productId
+INFO  05:21:19 Application started. Press Ctrl+C to shut down.
+INFO  05:21:19 Hosting environment: Development
+INFO  05:21:19 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:21:28 Logger initiated
+INFO  05:21:28 Searching Product by productId
+INFO  05:22:15 Application started. Press Ctrl+C to shut down.
+INFO  05:22:15 Hosting environment: Development
+INFO  05:22:15 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:22:44 Logger initiated
+INFO  05:22:44 Searching Product by productId
+INFO  05:23:20 Logger initiated
+INFO  05:23:22 Searching Product by productId
+INFO  05:28:37 Application started. Press Ctrl+C to shut down.
+INFO  05:28:37 Hosting environment: Development
+INFO  05:28:37 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:28:45 Logger initiated
+INFO  05:28:45 Searching Product by productId
+INFO  05:30:49 Application started. Press Ctrl+C to shut down.
+INFO  05:30:49 Hosting environment: Development
+INFO  05:30:49 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:30:58 Logger initiated
+INFO  05:30:58 Searching Product by productId
+INFO  05:31:56 Logger initiated
+INFO  05:31:57 Searching Product by productId
+INFO  05:32:29 Application started. Press Ctrl+C to shut down.
+INFO  05:32:29 Hosting environment: Development
+INFO  05:32:29 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:32:35 Logger initiated
+INFO  05:32:35 Searching Product by productId
+INFO  05:34:14 Application started. Press Ctrl+C to shut down.
+INFO  05:34:14 Hosting environment: Development
+INFO  05:34:14 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:34:21 Logger initiated
+INFO  05:34:21 Searching Product by productId
+INFO  05:35:33 Application started. Press Ctrl+C to shut down.
+INFO  05:35:33 Hosting environment: Development
+INFO  05:35:33 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:35:42 Logger initiated
+INFO  05:35:42 Searching Product by productId
+INFO  05:39:18 Application started. Press Ctrl+C to shut down.
+INFO  05:39:18 Hosting environment: Development
+INFO  05:39:18 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:39:25 Logger initiated
+INFO  05:39:25 Searching Product by productId
+INFO  05:39:27 Product not found
+INFO  05:40:15 Application started. Press Ctrl+C to shut down.
+INFO  05:40:15 Hosting environment: Development
+INFO  05:40:15 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:40:30 Logger initiated
+INFO  05:40:30 Searching product by product name
+INFO  05:41:02 Logger initiated
+INFO  05:41:03 Searching product by product name
+INFO  05:44:36 Application started. Press Ctrl+C to shut down.
+INFO  05:44:36 Hosting environment: Development
+INFO  05:44:36 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:44:45 Logger initiated
+INFO  05:44:45 Searching product by product name
+INFO  05:46:37 Application started. Press Ctrl+C to shut down.
+INFO  05:46:37 Hosting environment: Development
+INFO  05:46:37 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:46:47 Logger initiated
+INFO  05:46:48 Searching product by product name
+ERROR 05:47:29 Product Not Found By Name
+INFO  05:48:54 Application started. Press Ctrl+C to shut down.
+INFO  05:48:54 Hosting environment: Development
+INFO  05:48:54 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:49:01 Logger initiated
+INFO  05:49:01 Searching Product by productId
+INFO  05:52:26 Application started. Press Ctrl+C to shut down.
+INFO  05:52:26 Hosting environment: Development
+INFO  05:52:26 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:52:43 Logger initiated
+INFO  05:52:44 ProductRating
+INFO  05:55:51 Application started. Press Ctrl+C to shut down.
+INFO  05:55:51 Hosting environment: Development
+INFO  05:55:51 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:56:06 Logger initiated
+INFO  05:57:19 ProductRating
+INFO  05:58:14 Logger initiated
+INFO  05:58:14 Searching Product by productId
+INFO  05:58:14 Product not found
+INFO  06:10:23 Application started. Press Ctrl+C to shut down.
+INFO  06:10:23 Hosting environment: Development
+INFO  06:10:23 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:10:40 Logger initiated
+INFO  06:10:41 ProductRating
+INFO  06:12:47 Application started. Press Ctrl+C to shut down.
+INFO  06:12:47 Hosting environment: Development
+INFO  06:12:47 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:13:00 Logger initiated
+INFO  06:14:36 Application started. Press Ctrl+C to shut down.
+INFO  06:14:36 Hosting environment: Development
+INFO  06:14:36 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:14:49 Logger initiated
+ERROR 06:16:01 Product Rating Not Added
+INFO  06:26:45 Application started. Press Ctrl+C to shut down.
+INFO  06:26:45 Hosting environment: Development
+INFO  06:26:45 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:27:08 Logger initiated
+INFO  06:27:08 Searching Product by productId
+INFO  06:27:20 Logger initiated
+INFO  06:27:20 Searching for product
+INFO  06:27:20 Add Product Rating
+INFO  06:30:34 Logger initiated
+INFO  06:30:34 Searching Product by productId
+INFO  06:30:38 Logger initiated
+INFO  06:30:38 Searching Product by productId
+INFO  06:31:33 Application started. Press Ctrl+C to shut down.
+INFO  06:31:33 Hosting environment: Development
+INFO  06:31:33 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:31:52 Logger initiated
+INFO  06:31:52 Searching Product by productId
+INFO  06:32:00 Logger initiated
+INFO  06:32:01 Searching for product
+INFO  06:32:01 Add Product Rating
+INFO  06:32:26 Logger initiated
+INFO  06:32:26 Searching for product
+INFO  06:32:26 Add Product Rating
+INFO  06:33:39 Logger initiated
+INFO  06:33:39 Searching Product by productId
+INFO  06:33:41 Logger initiated
+INFO  06:33:41 Searching Product by productId
+INFO  06:33:43 Logger initiated
+INFO  06:33:43 Searching Product by productId
+INFO  06:33:50 Logger initiated
+INFO  06:33:50 Searching Product by productId
+INFO  06:34:04 Logger initiated
+INFO  06:34:04 Searching for product
+INFO  06:34:04 Add Product Rating
+INFO  06:34:11 Logger initiated
+INFO  06:34:11 Searching Product by productId
+INFO  06:37:09 Application started. Press Ctrl+C to shut down.
+INFO  06:37:09 Hosting environment: Development
+INFO  06:37:09 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:37:21 Logger initiated
+INFO  06:37:21 Searching for product
+INFO  06:38:42 Add Product Rating
+INFO  06:47:58 Application started. Press Ctrl+C to shut down.
+INFO  06:47:58 Hosting environment: Development
+INFO  06:47:58 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:48:12 Logger initiated
+INFO  06:48:12 Searching for product
+ERROR 06:48:45 Product Rating Not Added
+INFO  06:51:49 Application started. Press Ctrl+C to shut down.
+INFO  06:51:49 Hosting environment: Development
+INFO  06:51:49 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:52:14 Logger initiated
+INFO  06:52:14 Searching Product by productId
+INFO  06:52:20 Logger initiated
+INFO  06:52:20 Searching for product
+INFO  06:52:55 Add Product Rating
+INFO  06:54:45 Logger initiated
+INFO  06:54:45 Searching for product
+INFO  06:54:56 Add Product Rating
+INFO  06:58:45 Application started. Press Ctrl+C to shut down.
+INFO  06:58:45 Hosting environment: Development
+INFO  06:58:45 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:59:16 Logger initiated
+INFO  06:59:16 Searching for product
+INFO  06:59:45 Add Product Rating
+INFO  07:00:25 Logger initiated
+INFO  07:00:25 Searching Product by productId
+INFO  07:00:32 Logger initiated
+INFO  07:00:32 Searching for product
+ERROR 07:00:35 Product Rating Not Added
+INFO  07:07:00 Application started. Press Ctrl+C to shut down.
+INFO  07:07:00 Hosting environment: Development
+INFO  07:07:00 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  07:07:20 Logger initiated
+INFO  07:07:20 Searching Product by productId
+INFO  07:07:35 Logger initiated
+INFO  07:07:35 Searching Product by productId
+INFO  07:07:35 Product not found
+INFO  07:08:02 Logger initiated
+INFO  07:08:02 Searching Product by productId
+INFO  03:48:45 Application started. Press Ctrl+C to shut down.
+INFO  03:48:45 Hosting environment: Development
+INFO  03:48:45 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:48:54 Logger initiated
+INFO  03:48:54 ProductController - SearchProductById
+INFO  03:48:57 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:49:04 Logger initiated
+INFO  03:49:04 ProductController - SearchProductById
+INFO  03:49:04 ProductController - SearchProductById - Successfuly Searched Product Id: 14567
+INFO  03:50:31 Application started. Press Ctrl+C to shut down.
+INFO  03:50:31 Hosting environment: Development
+INFO  03:50:31 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:51:04 Logger initiated
+INFO  03:51:04 ProductController - SearchProductById
+INFO  03:52:19 ProductController - SearchProductById - Successfuly Searched Product Id: 100
+INFO  03:53:07 Application started. Press Ctrl+C to shut down.
+INFO  03:53:08 Hosting environment: Development
+INFO  03:53:08 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:53:20 Logger initiated
+INFO  03:53:20 ProductController - SearchProductById
+INFO  03:54:08 Application started. Press Ctrl+C to shut down.
+INFO  03:54:08 Hosting environment: Development
+INFO  03:54:08 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:54:19 Logger initiated
+INFO  03:54:19 ProductController - SearchProductById
+INFO  03:55:54 ProductController - SearchProductById - Search Failed for Product Id: 145678
+INFO  03:58:44 Application started. Press Ctrl+C to shut down.
+INFO  03:58:44 Hosting environment: Development
+INFO  03:58:44 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:58:59 Logger initiated
+INFO  03:58:59 ProductController - SearchProductByName
+INFO  03:59:01 ProductController - SearchProductByName - Search Failed for Product Name: dfghytg
+INFO  04:02:04 Application started. Press Ctrl+C to shut down.
+INFO  04:02:04 Hosting environment: Development
+INFO  04:02:04 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:03:03 Application started. Press Ctrl+C to shut down.
+INFO  04:03:03 Hosting environment: Development
+INFO  04:03:03 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:10:52 Application started. Press Ctrl+C to shut down.
+INFO  04:10:52 Hosting environment: Development
+INFO  04:10:52 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:11:08 Logger initiated
+INFO  04:11:08 Searching for product for adding rating
+ERROR 04:11:11 Product Rating Not Added
+INFO  04:11:34 Logger initiated
+INFO  04:11:34 ProductController - SearchProductById
+INFO  04:11:35 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  04:11:42 Logger initiated
+INFO  04:11:42 Searching for product for adding rating
+INFO  04:11:42 Add Product Rating
+INFO  04:11:55 Logger initiated
+INFO  04:11:55 ProductController - SearchProductById
+INFO  04:11:55 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  04:29:27 Application started. Press Ctrl+C to shut down.
+INFO  04:29:27 Hosting environment: Development
+INFO  04:29:27 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:29:39 Logger initiated
+INFO  04:29:39 Searching for product for adding rating
