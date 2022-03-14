@@ -53,6 +53,15 @@ namespace ProductMicroservice.Migrations
                             Name = "Redmi",
                             Price = 2000.0,
                             Rating = 5
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Camera Clarity",
+                            Image_Name = "2.jpg",
+                            Name = "Iphone",
+                            Price = 3000.0,
+                            Rating = 5
                         });
                 });
 #pragma warning restore 612, 618

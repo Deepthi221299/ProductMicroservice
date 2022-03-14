@@ -27,6 +27,11 @@ namespace ProductMicroservice.Migrations
                 table: "products",
                 columns: new[] { "Id", "Description", "Image_Name", "Name", "Price", "Rating" },
                 values: new object[] { 1, "Cost Efficient", "1.jpg", "Redmi", 2000.0, 5 });
+
+            migrationBuilder.InsertData(
+                table: "products",
+                columns: new[] { "Id", "Description", "Image_Name", "Name", "Price", "Rating" },
+                values: new object[] { 2, "Camera Clarity", "2.jpg", "Iphone", 3000.0, 5 });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

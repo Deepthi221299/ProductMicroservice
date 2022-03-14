@@ -9,7 +9,7 @@ using ProductMicroservice.Models;
 namespace ProductMicroservice.Migrations
 {
     [DbContext(typeof(ProductContext))]
-    [Migration("20220310104508_ProductMigration")]
+    [Migration("20220314103009_ProductMigration")]
     partial class ProductMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -54,6 +54,15 @@ namespace ProductMicroservice.Migrations
                             Image_Name = "1.jpg",
                             Name = "Redmi",
                             Price = 2000.0,
+                            Rating = 5
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Camera Clarity",
+                            Image_Name = "2.jpg",
+                            Name = "Iphone",
+                            Price = 3000.0,
                             Rating = 5
                         });
                 });

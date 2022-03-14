@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ProductMicroservice.Models
 {
-    public class JsonData
+    public class ProductRating
     {
         public int Id { get; set; }
         public int rating { get; set; }

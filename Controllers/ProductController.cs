@@ -81,7 +81,7 @@ namespace ProductMicroservice.Controllers
         }
 
         [HttpPost("Rating")]
-        public IActionResult AddRating(JsonData data)
+        public IActionResult AddRating(ProductRating data)
         {
             _log4net.Info("Searching for product for adding rating");
             double[] validRating = new double[5] { 1, 2, 3, 4, 5 };
