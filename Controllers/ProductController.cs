@@ -13,17 +13,41 @@ namespace ProductMicroservice.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        private readonly IProductRepository _Iproduct;
+        IProductRepository prodrepo;
 
-        private readonly log4net.ILog _log4net;
+        static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(ProductController));
 
-        public ProductController(IProductRepository Iproduct)
+        public ProductController(IProductRepository _prodrepo)
         {
-            _log4net = log4net.LogManager.GetLogger(typeof(ProductController));
-            _Iproduct = Iproduct;
-          _log4net.Info("Logger initiated");
+            prodrepo = _prodrepo;
         }
-        
+
+        [HttpGet]
+        [Route("GetAllProducts")]
+        public IActionResult GetAllProducts()
+        {
+            _log4net.Info("ProductController - GetAllProducts");
+
+            try
+            {
+                var result = prodrepo.GetAllProducts();
+
+                if (result != null)
+                {
+                    _log4net.Info("ProductController - GetAllProducts - All Products Fetched");
+
+                    return Ok(result);
+                }
+                _log4net.Info("ProductController - GetAllProducts - Products Not Found");
+                return NotFound("Not Products");
+            }
+
+            catch (Exception)
+            {
+                _log4net.Info("ProductController - GetAllProducts - Bad Request");
+                return BadRequest();
+            }
+        }
 
         [HttpGet]
         [Route("SearchProductById")]
@@ -33,16 +57,16 @@ namespace ProductMicroservice.Controllers
 
             try
             {
-                var result = _Iproduct.SearchProductById(productId);
+                var result = prodrepo.SearchProductById(productId);
 
-                if (result.Count != 0)
+                if (result != null)
                 {
                     _log4net.Info("ProductController - SearchProductById - Successfuly Searched Product Id: " + productId);
 
                     return Ok(result);
                 }
                 _log4net.Info("ProductController - SearchProductById - Search Failed for Product Id: " + productId);
-                return NotFound("Product not found with the given Id : " + productId);
+                return NotFound("No Product Found with the Id : " + productId);
             }
 
             catch (Exception)
@@ -52,7 +76,6 @@ namespace ProductMicroservice.Controllers
             }
         }
 
-        
         [HttpGet]
         [Route("SearchProductByName")]
         public IActionResult SearchProductByName(string productName)
@@ -61,16 +84,16 @@ namespace ProductMicroservice.Controllers
 
             try
             {
-                var result = _Iproduct.SearchProductByName(productName);
+                var result = prodrepo.SearchProductByName(productName);
 
-                if (result.Count != 0)
+                if (result != null)
                 {
                     _log4net.Info("ProductController - SearchProductByName - Successfuly Searched Product Name: " + productName);
 
                     return Ok(result);
                 }
                 _log4net.Info("ProductController - SearchProductByName - Search Failed for Product Name: " + productName);
-                return NotFound("Product Not Found By Given Name : " +productName);
+                return NotFound("No Product Found with the Name: " + productName);
             }
 
             catch (Exception)
@@ -80,19 +103,23 @@ namespace ProductMicroservice.Controllers
             }
         }
 
-        [HttpPost("Rating")]
-        public IActionResult AddRating(ProductRating data)
+        [HttpPut]
+        [Route("AddProductRating/{productId}/{rating}")]
+        public IActionResult AddProductRating(int productId, double rating)
         {
-            _log4net.Info("Searching for product for adding rating");
+            _log4net.Info("ProductController - AddProductRating");
+
             double[] validRating = new double[5] { 1, 2, 3, 4, 5 };
-            if (!validRating.Contains(data.rating))
+
+            if (!validRating.Contains(rating))
             {
                 return BadRequest("Enter a valid rating");
             }
+
             try
             {
-                var p4 = _Iproduct.SearchProductById(data.Id);
-                if (p4.Count == 0)
+                var p4 = prodrepo.SearchProductById(productId);
+                if (p4 == null)
                 {
                     _log4net.Error("Product Rating Not Added");
                     return NotFound("Product Rating Not Added because Product not found");
@@ -100,19 +127,16 @@ namespace ProductMicroservice.Controllers
                 else
                 {
                     _log4net.Info("Add Product Rating");
-                    _Iproduct.AddProductRating(data.Id, data.rating);
+                    prodrepo.AddProductRating(productId,rating);
                     return Ok("Success");
                 }
-                
-
             }
+
             catch (Exception)
             {
-                _log4net.Info("ProductController - SearchProductByName - Bad Request");
+                _log4net.Info("ProductController - AddProductRating - Bad Request");
                 return BadRequest();
             }
-            
-
         }
     }
 }
