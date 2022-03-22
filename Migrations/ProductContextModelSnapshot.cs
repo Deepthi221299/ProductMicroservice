@@ -7,6 +7,7 @@ using ProductMicroservice.Models;
 
 namespace ProductMicroservice.Migrations
 {
+    
     [DbContext(typeof(ProductContext))]
     partial class ProductContextModelSnapshot : ModelSnapshot
     {

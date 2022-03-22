@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProductMicroservice.Models;
 using ProductMicroservice.Repository;
@@ -11,6 +12,8 @@ namespace ProductMicroservice.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+     //[Produces("application/json")]
+    //[Authorize(Roles = "UserToken")]
     public class ProductController : ControllerBase
     {
         IProductRepository prodrepo;
@@ -21,6 +24,8 @@ namespace ProductMicroservice.Controllers
         {
             prodrepo = _prodrepo;
         }
+
+        //[Authorize(AuthenticationSchemes = "Bearer")]
 
         [HttpGet]
         [Route("GetAllProducts")]
@@ -48,7 +53,7 @@ namespace ProductMicroservice.Controllers
                 return BadRequest();
             }
         }
-
+       //[Authorize(AuthenticationSchemes = "Bearer")]
         [HttpGet]
         [Route("SearchProductById")]
         public IActionResult SearchProductById(int productId)
@@ -75,7 +80,7 @@ namespace ProductMicroservice.Controllers
                 return BadRequest();
             }
         }
-
+       // [Authorize(AuthenticationSchemes = "Bearer")]
         [HttpGet]
         [Route("SearchProductByName")]
         public IActionResult SearchProductByName(string productName)
@@ -102,6 +107,7 @@ namespace ProductMicroservice.Controllers
                 return BadRequest();
             }
         }
+        //[Authorize(AuthenticationSchemes = "Bearer")]
 
         [HttpPut]
         [Route("AddProductRating/{productId}/{rating}")]

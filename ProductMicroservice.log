@@ -489,3 +489,2253 @@ INFO  04:53:32 Hosting environment: Development
 INFO  04:53:32 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
 INFO  04:53:39 ProductController - GetAllProducts
 INFO  04:53:40 ProductController - GetAllProducts - All Products Fetched
+INFO  06:58:29 Application started. Press Ctrl+C to shut down.
+INFO  06:58:29 Hosting environment: Development
+INFO  06:58:29 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  07:05:10 ProductController - GetAllProducts
+INFO  07:05:11 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:27 ProductController - GetAllProducts
+INFO  07:08:27 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:27 ProductController - GetAllProducts
+INFO  07:08:27 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:27 ProductController - GetAllProducts
+INFO  07:08:27 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:27 ProductController - GetAllProducts
+INFO  07:08:27 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:27 ProductController - GetAllProducts
+INFO  07:08:27 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:28 ProductController - GetAllProducts
+INFO  07:08:28 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:28 ProductController - GetAllProducts
+INFO  07:08:28 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:28 ProductController - GetAllProducts
+INFO  07:08:28 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:28 ProductController - GetAllProducts
+INFO  07:08:28 ProductController - GetAllProducts - All Products Fetched
+INFO  07:08:36 ProductController - GetAllProducts
+INFO  07:08:36 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:21 ProductController - GetAllProducts
+INFO  07:11:21 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:22 ProductController - GetAllProducts
+INFO  07:11:22 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:22 ProductController - GetAllProducts
+INFO  07:11:22 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:22 ProductController - GetAllProducts
+INFO  07:11:22 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:22 ProductController - GetAllProducts
+INFO  07:11:22 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:22 ProductController - GetAllProducts
+INFO  07:11:22 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:23 ProductController - GetAllProducts
+INFO  07:11:23 ProductController - GetAllProducts - All Products Fetched
+INFO  07:11:23 ProductController - GetAllProducts
+INFO  07:11:23 ProductController - GetAllProducts - All Products Fetched
+INFO  07:14:43 ProductController - GetAllProducts
+INFO  07:14:44 ProductController - GetAllProducts - All Products Fetched
+INFO  07:14:44 ProductController - GetAllProducts
+INFO  07:14:44 ProductController - GetAllProducts - All Products Fetched
+INFO  07:14:44 ProductController - GetAllProducts
+INFO  07:14:44 ProductController - GetAllProducts - All Products Fetched
+INFO  07:14:44 ProductController - GetAllProducts
+INFO  07:14:44 ProductController - GetAllProducts - All Products Fetched
+INFO  07:20:41 ProductController - GetAllProducts
+INFO  07:20:41 ProductController - GetAllProducts - All Products Fetched
+INFO  07:20:41 ProductController - GetAllProducts
+INFO  07:20:41 ProductController - GetAllProducts - All Products Fetched
+INFO  07:20:42 ProductController - GetAllProducts
+INFO  07:20:42 ProductController - GetAllProducts - All Products Fetched
+INFO  07:43:47 ProductController - GetAllProducts
+INFO  07:43:47 ProductController - GetAllProducts - All Products Fetched
+INFO  07:43:47 ProductController - GetAllProducts
+INFO  07:43:47 ProductController - GetAllProducts - All Products Fetched
+INFO  07:43:47 ProductController - GetAllProducts
+INFO  07:43:47 ProductController - GetAllProducts - All Products Fetched
+INFO  07:43:47 ProductController - GetAllProducts
+INFO  07:43:47 ProductController - GetAllProducts - All Products Fetched
+INFO  08:18:28 ProductController - GetAllProducts
+INFO  08:18:29 ProductController - GetAllProducts - All Products Fetched
+INFO  09:08:42 Application started. Press Ctrl+C to shut down.
+INFO  09:08:42 Hosting environment: Development
+INFO  09:08:42 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  09:09:02 ProductController - GetAllProducts
+INFO  09:09:03 ProductController - GetAllProducts - All Products Fetched
+INFO  09:09:03 ProductController - GetAllProducts
+INFO  09:09:03 ProductController - GetAllProducts - All Products Fetched
+INFO  09:09:03 ProductController - GetAllProducts
+INFO  09:09:03 ProductController - GetAllProducts - All Products Fetched
+INFO  09:09:03 ProductController - GetAllProducts
+INFO  09:09:03 ProductController - GetAllProducts - All Products Fetched
+INFO  09:09:03 ProductController - GetAllProducts
+INFO  09:09:03 ProductController - GetAllProducts - All Products Fetched
+INFO  09:09:03 ProductController - GetAllProducts
+INFO  09:09:03 ProductController - GetAllProducts - All Products Fetched
+INFO  09:09:04 ProductController - GetAllProducts
+INFO  09:09:04 ProductController - GetAllProducts - All Products Fetched
+INFO  09:09:04 ProductController - GetAllProducts
+INFO  09:09:04 ProductController - GetAllProducts - All Products Fetched
+INFO  09:10:26 ProductController - GetAllProducts
+INFO  09:10:26 ProductController - GetAllProducts - All Products Fetched
+INFO  09:15:31 ProductController - GetAllProducts
+INFO  09:15:31 ProductController - GetAllProducts - All Products Fetched
+INFO  09:15:31 ProductController - GetAllProducts
+INFO  09:15:31 ProductController - GetAllProducts - All Products Fetched
+INFO  09:15:31 ProductController - GetAllProducts
+INFO  09:15:31 ProductController - GetAllProducts - All Products Fetched
+INFO  09:15:31 ProductController - GetAllProducts
+INFO  09:15:31 ProductController - GetAllProducts - All Products Fetched
+INFO  09:15:31 ProductController - GetAllProducts
+INFO  09:15:31 ProductController - GetAllProducts - All Products Fetched
+INFO  09:15:33 ProductController - GetAllProducts
+INFO  09:15:33 ProductController - GetAllProducts - All Products Fetched
+INFO  09:16:47 ProductController - GetAllProducts
+INFO  09:16:47 ProductController - GetAllProducts - All Products Fetched
+INFO  09:17:07 ProductController - GetAllProducts
+INFO  09:17:07 ProductController - GetAllProducts - All Products Fetched
+INFO  10:34:38 Application started. Press Ctrl+C to shut down.
+INFO  10:34:38 Hosting environment: Development
+INFO  10:34:38 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  10:34:46 ProductController - GetAllProducts
+INFO  10:34:47 ProductController - GetAllProducts - All Products Fetched
+INFO  10:34:47 ProductController - GetAllProducts
+INFO  10:34:47 ProductController - GetAllProducts - All Products Fetched
+INFO  10:34:47 ProductController - GetAllProducts
+INFO  10:34:47 ProductController - GetAllProducts - All Products Fetched
+INFO  10:34:47 ProductController - GetAllProducts
+INFO  10:34:47 ProductController - GetAllProducts - All Products Fetched
+INFO  10:34:51 ProductController - GetAllProducts
+INFO  10:34:51 ProductController - GetAllProducts - All Products Fetched
+INFO  10:34:52 ProductController - GetAllProducts
+INFO  10:34:52 ProductController - GetAllProducts - All Products Fetched
+INFO  10:35:01 ProductController - GetAllProducts
+INFO  10:35:01 ProductController - GetAllProducts - All Products Fetched
+INFO  10:42:58 ProductController - GetAllProducts
+INFO  10:42:58 ProductController - GetAllProducts - All Products Fetched
+INFO  10:45:12 ProductController - GetAllProducts
+INFO  10:45:12 ProductController - GetAllProducts - All Products Fetched
+INFO  10:46:13 ProductController - GetAllProducts
+INFO  10:46:13 ProductController - GetAllProducts - All Products Fetched
+INFO  10:46:23 ProductController - GetAllProducts
+INFO  10:46:23 ProductController - GetAllProducts - All Products Fetched
+INFO  10:52:03 ProductController - GetAllProducts
+INFO  10:52:03 ProductController - GetAllProducts - All Products Fetched
+INFO  11:02:46 ProductController - GetAllProducts
+INFO  11:02:46 ProductController - GetAllProducts - All Products Fetched
+INFO  11:05:38 ProductController - GetAllProducts
+INFO  11:05:38 ProductController - GetAllProducts - All Products Fetched
+INFO  11:10:49 ProductController - GetAllProducts
+INFO  11:10:49 ProductController - GetAllProducts - All Products Fetched
+INFO  11:17:26 ProductController - GetAllProducts
+INFO  11:17:26 ProductController - GetAllProducts - All Products Fetched
+INFO  11:23:58 ProductController - GetAllProducts
+INFO  11:23:58 ProductController - GetAllProducts - All Products Fetched
+INFO  11:39:35 ProductController - SearchProductById
+INFO  11:39:35 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:03:39 ProductController - GetAllProducts
+INFO  12:03:39 ProductController - GetAllProducts - All Products Fetched
+INFO  12:13:09 ProductController - GetAllProducts
+INFO  12:13:09 ProductController - GetAllProducts - All Products Fetched
+INFO  12:22:42 ProductController - GetAllProducts
+INFO  12:22:42 ProductController - GetAllProducts - All Products Fetched
+INFO  12:24:48 ProductController - SearchProductById
+INFO  12:24:48 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:29:14 ProductController - SearchProductById
+INFO  12:29:14 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:29:20 ProductController - SearchProductById
+INFO  12:29:20 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:29:33 ProductController - SearchProductById
+INFO  12:29:33 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:29:38 ProductController - SearchProductById
+INFO  12:29:38 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  10:49:04 Application started. Press Ctrl+C to shut down.
+INFO  10:49:04 Hosting environment: Development
+INFO  10:49:04 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  10:50:05 ProductController - GetAllProducts
+INFO  10:50:06 ProductController - GetAllProducts - All Products Fetched
+INFO  10:50:44 ProductController - GetAllProducts
+INFO  10:50:44 ProductController - GetAllProducts - All Products Fetched
+INFO  10:52:05 ProductController - GetAllProducts
+INFO  10:52:05 ProductController - GetAllProducts - All Products Fetched
+INFO  10:53:36 ProductController - GetAllProducts
+INFO  10:53:37 ProductController - GetAllProducts - All Products Fetched
+INFO  10:53:55 ProductController - SearchProductById
+INFO  10:53:55 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  10:54:03 ProductController - GetAllProducts
+INFO  10:54:03 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:12 ProductController - SearchProductById
+INFO  10:56:12 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:03:29 ProductController - SearchProductById
+INFO  11:03:29 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:05:19 ProductController - SearchProductById
+INFO  11:05:19 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:05:28 ProductController - SearchProductById
+INFO  11:05:28 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:07:53 ProductController - SearchProductById
+INFO  11:07:53 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:10:55 ProductController - SearchProductById
+INFO  11:10:55 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:11:57 ProductController - SearchProductById
+INFO  11:11:57 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:13:11 ProductController - SearchProductById
+INFO  11:13:11 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:16:09 ProductController - SearchProductById
+INFO  11:16:09 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:27:25 ProductController - SearchProductByName
+INFO  11:27:25 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  11:30:57 ProductController - SearchProductById
+INFO  11:30:57 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:45:46 ProductController - SearchProductByName
+INFO  11:45:46 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  11:53:23 ProductController - SearchProductById
+INFO  11:53:23 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:53:38 ProductController - SearchProductById
+INFO  11:53:38 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:00:40 ProductController - SearchProductByName
+INFO  12:00:40 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  12:02:13 ProductController - SearchProductById
+INFO  12:02:13 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:04:46 ProductController - SearchProductById
+INFO  12:04:46 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  12:41:28 Application started. Press Ctrl+C to shut down.
+INFO  12:41:28 Hosting environment: Development
+INFO  12:41:28 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  12:41:50 ProductController - SearchProductById
+INFO  12:41:50 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  12:43:32 ProductController - SearchProductById
+INFO  12:43:33 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:43:56 ProductController - SearchProductById
+INFO  12:43:56 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:56:51 ProductController - SearchProductByName
+INFO  12:56:52 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  12:57:54 ProductController - GetAllProducts
+INFO  12:57:54 ProductController - GetAllProducts - All Products Fetched
+INFO  01:59:13 ProductController - GetAllProducts
+INFO  01:59:13 ProductController - GetAllProducts - All Products Fetched
+INFO  01:59:29 ProductController - SearchProductByName
+INFO  01:59:29 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  03:27:08 Application started. Press Ctrl+C to shut down.
+INFO  03:27:08 Hosting environment: Development
+INFO  03:27:09 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:29:40 Application started. Press Ctrl+C to shut down.
+INFO  03:29:40 Hosting environment: Development
+INFO  03:29:40 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:30:45 ProductController - GetAllProducts
+INFO  03:30:46 ProductController - GetAllProducts - All Products Fetched
+INFO  03:42:43 Application started. Press Ctrl+C to shut down.
+INFO  03:42:43 Hosting environment: Development
+INFO  03:42:43 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:43:43 Application started. Press Ctrl+C to shut down.
+INFO  03:43:43 Hosting environment: Development
+INFO  03:43:43 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:48:57 ProductController - SearchProductById
+INFO  03:48:59 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  04:21:13 ProductController - GetAllProducts
+INFO  04:21:13 ProductController - GetAllProducts - All Products Fetched
+INFO  04:21:55 ProductController - SearchProductByName
+INFO  04:21:55 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  04:21:56 ProductController - SearchProductByName
+INFO  04:21:56 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  04:21:56 ProductController - SearchProductByName
+INFO  04:21:56 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  04:24:18 ProductController - SearchProductByName
+INFO  04:24:18 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  04:54:37 Application started. Press Ctrl+C to shut down.
+INFO  04:54:37 Hosting environment: Development
+INFO  04:54:37 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:03:17 Application started. Press Ctrl+C to shut down.
+INFO  05:03:17 Hosting environment: Development
+INFO  05:03:17 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  05:03:33 ProductController - GetAllProducts
+INFO  05:03:35 ProductController - GetAllProducts - All Products Fetched
+INFO  05:03:51 ProductController - SearchProductById
+INFO  05:03:51 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:04:09 ProductController - SearchProductByName
+INFO  05:04:09 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:21:47 ProductController - GetAllProducts
+INFO  05:21:47 ProductController - GetAllProducts - All Products Fetched
+INFO  05:21:59 ProductController - SearchProductById
+INFO  05:21:59 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:25:32 ProductController - SearchProductById
+INFO  05:25:32 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:28:21 ProductController - SearchProductById
+INFO  05:28:21 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:29:14 ProductController - SearchProductById
+INFO  05:29:14 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:29:47 ProductController - SearchProductById
+INFO  05:29:47 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:30:52 ProductController - SearchProductById
+INFO  05:30:52 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:31:58 ProductController - SearchProductById
+INFO  05:31:58 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:36:27 ProductController - SearchProductById
+INFO  05:36:27 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:37:44 ProductController - SearchProductById
+INFO  05:37:44 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:38:50 ProductController - SearchProductById
+INFO  05:38:50 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:39:44 ProductController - SearchProductById
+INFO  05:39:44 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:41:11 ProductController - SearchProductById
+INFO  05:41:11 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:42:19 ProductController - SearchProductById
+INFO  05:42:19 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:49:13 ProductController - SearchProductById
+INFO  05:49:13 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:50:21 ProductController - SearchProductById
+INFO  05:50:21 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:52:28 ProductController - SearchProductById
+INFO  05:52:28 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:53:58 ProductController - SearchProductByName
+INFO  05:53:58 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:53:59 ProductController - SearchProductByName
+INFO  05:53:59 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:53:59 ProductController - SearchProductByName
+INFO  05:53:59 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:00 ProductController - SearchProductByName
+INFO  05:54:00 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:00 ProductController - SearchProductByName
+INFO  05:54:00 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:00 ProductController - SearchProductByName
+INFO  05:54:00 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:01 ProductController - SearchProductByName
+INFO  05:54:01 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:01 ProductController - SearchProductByName
+INFO  05:54:01 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:01 ProductController - SearchProductByName
+INFO  05:54:01 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:15 ProductController - SearchProductByName
+INFO  05:54:15 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  05:54:34 ProductController - SearchProductByName
+INFO  05:54:34 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  05:55:58 ProductController - SearchProductByName
+INFO  05:55:58 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  05:57:33 ProductController - SearchProductByName
+INFO  05:57:33 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  05:59:58 ProductController - SearchProductByName
+INFO  05:59:58 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:00:43 ProductController - SearchProductByName
+INFO  06:00:43 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:02:54 ProductController - SearchProductByName
+INFO  06:02:54 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:03:36 ProductController - SearchProductByName
+INFO  06:03:36 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:04:19 ProductController - SearchProductByName
+INFO  06:04:19 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:12:42 ProductController - SearchProductById
+INFO  06:12:42 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  06:12:47 ProductController - SearchProductByName
+INFO  06:12:47 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:16:32 ProductController - SearchProductByName
+INFO  06:16:32 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:18:36 ProductController - SearchProductByName
+INFO  06:18:36 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:21:18 ProductController - SearchProductByName
+INFO  06:21:18 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:22:36 ProductController - SearchProductByName
+INFO  06:22:36 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  06:23:12 ProductController - SearchProductByName
+INFO  06:23:12 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  09:25:50 Application started. Press Ctrl+C to shut down.
+INFO  09:25:50 Hosting environment: Development
+INFO  09:25:50 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  09:25:59 ProductController - GetAllProducts
+INFO  09:26:01 ProductController - GetAllProducts - All Products Fetched
+INFO  09:26:40 ProductController - SearchProductById
+INFO  09:26:40 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  09:29:16 ProductController - SearchProductByName
+INFO  09:29:16 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  09:34:30 ProductController - AddProductRating
+INFO  09:34:30 Add Product Rating
+INFO  09:48:17 Application started. Press Ctrl+C to shut down.
+INFO  09:48:17 Hosting environment: Development
+INFO  09:48:17 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  11:06:06 Application started. Press Ctrl+C to shut down.
+INFO  11:06:06 Hosting environment: Development
+INFO  11:06:06 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  12:01:28 Application started. Press Ctrl+C to shut down.
+INFO  12:01:28 Hosting environment: Development
+INFO  12:01:28 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  02:23:22 Application started. Press Ctrl+C to shut down.
+INFO  02:23:22 Hosting environment: Development
+INFO  02:23:22 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  02:23:28 ProductController - SearchProductById
+INFO  02:23:30 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  02:23:35 ProductController - GetAllProducts
+INFO  02:23:35 ProductController - GetAllProducts - All Products Fetched
+INFO  02:24:00 ProductController - GetAllProducts
+INFO  02:24:00 ProductController - GetAllProducts - All Products Fetched
+INFO  02:24:11 ProductController - GetAllProducts
+INFO  02:24:11 ProductController - GetAllProducts - All Products Fetched
+INFO  02:26:58 ProductController - GetAllProducts
+INFO  02:26:58 ProductController - GetAllProducts - All Products Fetched
+INFO  02:27:01 ProductController - GetAllProducts
+INFO  02:27:01 ProductController - GetAllProducts - All Products Fetched
+INFO  02:27:06 ProductController - GetAllProducts
+INFO  02:27:06 ProductController - GetAllProducts - All Products Fetched
+INFO  02:27:10 ProductController - GetAllProducts
+INFO  02:27:10 ProductController - GetAllProducts - All Products Fetched
+INFO  02:27:40 ProductController - GetAllProducts
+INFO  02:27:40 ProductController - GetAllProducts - All Products Fetched
+INFO  02:27:57 ProductController - GetAllProducts
+INFO  02:27:57 ProductController - GetAllProducts - All Products Fetched
+INFO  02:28:01 ProductController - GetAllProducts
+INFO  02:28:01 ProductController - GetAllProducts - All Products Fetched
+INFO  02:28:02 ProductController - GetAllProducts
+INFO  02:28:02 ProductController - GetAllProducts - All Products Fetched
+INFO  02:34:12 ProductController - GetAllProducts
+INFO  02:34:12 ProductController - GetAllProducts - All Products Fetched
+INFO  02:34:34 ProductController - SearchProductByName
+INFO  02:34:34 ProductController - SearchProductByName - Search Failed for Product Name: 
+INFO  02:36:06 ProductController - SearchProductById
+INFO  02:36:06 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  02:36:36 ProductController - GetAllProducts
+INFO  02:36:36 ProductController - GetAllProducts - All Products Fetched
+INFO  02:36:39 ProductController - GetAllProducts
+INFO  02:36:39 ProductController - GetAllProducts - All Products Fetched
+INFO  02:36:54 ProductController - GetAllProducts
+INFO  02:36:54 ProductController - GetAllProducts - All Products Fetched
+INFO  02:37:03 ProductController - GetAllProducts
+INFO  02:37:03 ProductController - GetAllProducts - All Products Fetched
+INFO  02:37:07 ProductController - GetAllProducts
+INFO  02:37:07 ProductController - GetAllProducts - All Products Fetched
+INFO  02:37:10 ProductController - GetAllProducts
+INFO  02:37:10 ProductController - GetAllProducts - All Products Fetched
+INFO  02:37:12 ProductController - SearchProductByName
+INFO  02:37:12 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  02:37:28 ProductController - GetAllProducts
+INFO  02:37:28 ProductController - GetAllProducts - All Products Fetched
+INFO  02:37:30 ProductController - GetAllProducts
+INFO  02:37:30 ProductController - GetAllProducts - All Products Fetched
+INFO  02:37:33 ProductController - GetAllProducts
+INFO  02:37:33 ProductController - GetAllProducts - All Products Fetched
+INFO  02:37:46 ProductController - SearchProductById
+INFO  02:37:46 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  02:38:04 ProductController - SearchProductById
+INFO  02:38:04 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  02:38:47 ProductController - GetAllProducts
+INFO  02:38:47 ProductController - GetAllProducts - All Products Fetched
+INFO  02:39:06 ProductController - GetAllProducts
+INFO  02:39:06 ProductController - GetAllProducts - All Products Fetched
+INFO  02:39:12 ProductController - GetAllProducts
+INFO  02:39:12 ProductController - GetAllProducts - All Products Fetched
+INFO  02:39:17 ProductController - GetAllProducts
+INFO  02:39:17 ProductController - GetAllProducts - All Products Fetched
+INFO  02:39:42 ProductController - GetAllProducts
+INFO  02:39:42 ProductController - GetAllProducts - All Products Fetched
+INFO  02:39:53 ProductController - GetAllProducts
+INFO  02:39:53 ProductController - GetAllProducts - All Products Fetched
+INFO  02:40:22 ProductController - GetAllProducts
+INFO  02:40:22 ProductController - GetAllProducts - All Products Fetched
+INFO  02:40:44 ProductController - GetAllProducts
+INFO  02:40:44 ProductController - GetAllProducts - All Products Fetched
+INFO  02:40:49 ProductController - GetAllProducts
+INFO  02:40:49 ProductController - GetAllProducts - All Products Fetched
+INFO  02:40:52 ProductController - GetAllProducts
+INFO  02:40:52 ProductController - GetAllProducts - All Products Fetched
+INFO  02:41:38 ProductController - GetAllProducts
+INFO  02:41:38 ProductController - GetAllProducts - All Products Fetched
+INFO  02:41:39 ProductController - GetAllProducts
+INFO  02:41:39 ProductController - GetAllProducts - All Products Fetched
+INFO  02:41:44 ProductController - GetAllProducts
+INFO  02:41:44 ProductController - GetAllProducts - All Products Fetched
+INFO  02:41:53 ProductController - GetAllProducts
+INFO  02:41:53 ProductController - GetAllProducts - All Products Fetched
+INFO  02:41:58 ProductController - GetAllProducts
+INFO  02:41:58 ProductController - GetAllProducts - All Products Fetched
+INFO  02:42:03 ProductController - GetAllProducts
+INFO  02:42:03 ProductController - GetAllProducts - All Products Fetched
+INFO  02:42:18 ProductController - GetAllProducts
+INFO  02:42:18 ProductController - GetAllProducts - All Products Fetched
+INFO  02:42:33 ProductController - GetAllProducts
+INFO  02:42:33 ProductController - GetAllProducts - All Products Fetched
+INFO  02:43:26 ProductController - GetAllProducts
+INFO  02:43:26 ProductController - GetAllProducts - All Products Fetched
+INFO  02:43:30 ProductController - GetAllProducts
+INFO  02:43:30 ProductController - GetAllProducts - All Products Fetched
+INFO  02:45:01 ProductController - GetAllProducts
+INFO  02:45:01 ProductController - GetAllProducts - All Products Fetched
+INFO  02:45:38 ProductController - GetAllProducts
+INFO  02:45:38 ProductController - GetAllProducts - All Products Fetched
+INFO  02:45:42 ProductController - GetAllProducts
+INFO  02:45:42 ProductController - GetAllProducts - All Products Fetched
+INFO  02:45:43 ProductController - GetAllProducts
+INFO  02:45:43 ProductController - GetAllProducts - All Products Fetched
+INFO  02:45:44 ProductController - GetAllProducts
+INFO  02:45:44 ProductController - GetAllProducts - All Products Fetched
+INFO  02:45:50 ProductController - GetAllProducts
+INFO  02:45:50 ProductController - GetAllProducts - All Products Fetched
+INFO  02:54:08 ProductController - GetAllProducts
+INFO  02:54:08 ProductController - GetAllProducts - All Products Fetched
+INFO  02:55:07 ProductController - GetAllProducts
+INFO  02:55:07 ProductController - GetAllProducts - All Products Fetched
+INFO  02:55:34 ProductController - GetAllProducts
+INFO  02:55:34 ProductController - GetAllProducts - All Products Fetched
+INFO  02:55:47 ProductController - GetAllProducts
+INFO  02:55:47 ProductController - GetAllProducts - All Products Fetched
+INFO  02:56:41 ProductController - GetAllProducts
+INFO  02:56:41 ProductController - GetAllProducts - All Products Fetched
+INFO  02:57:40 ProductController - GetAllProducts
+INFO  02:57:40 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:01 ProductController - GetAllProducts
+INFO  02:58:01 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:03 ProductController - GetAllProducts
+INFO  02:58:03 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:25 ProductController - GetAllProducts
+INFO  02:58:25 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:26 ProductController - GetAllProducts
+INFO  02:58:26 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:38 ProductController - GetAllProducts
+INFO  02:58:38 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:46 ProductController - GetAllProducts
+INFO  02:58:46 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:57 ProductController - SearchProductById
+INFO  02:58:57 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  02:59:18 ProductController - GetAllProducts
+INFO  02:59:18 ProductController - GetAllProducts - All Products Fetched
+INFO  02:59:23 ProductController - GetAllProducts
+INFO  02:59:23 ProductController - GetAllProducts - All Products Fetched
+INFO  02:59:37 ProductController - SearchProductById
+INFO  02:59:37 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:00:46 ProductController - GetAllProducts
+INFO  03:00:46 ProductController - GetAllProducts - All Products Fetched
+INFO  03:00:48 ProductController - GetAllProducts
+INFO  03:00:48 ProductController - GetAllProducts - All Products Fetched
+INFO  03:00:56 ProductController - GetAllProducts
+INFO  03:00:56 ProductController - GetAllProducts - All Products Fetched
+INFO  03:01:04 ProductController - SearchProductById
+INFO  03:01:04 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:01:50 ProductController - GetAllProducts
+INFO  03:01:50 ProductController - GetAllProducts - All Products Fetched
+INFO  03:02:00 ProductController - SearchProductById
+INFO  03:02:00 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:02:35 ProductController - GetAllProducts
+INFO  03:02:35 ProductController - GetAllProducts - All Products Fetched
+INFO  03:02:40 ProductController - GetAllProducts
+INFO  03:02:40 ProductController - GetAllProducts - All Products Fetched
+INFO  03:02:42 ProductController - GetAllProducts
+INFO  03:02:42 ProductController - GetAllProducts - All Products Fetched
+INFO  03:02:47 ProductController - SearchProductById
+INFO  03:02:47 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:03:09 ProductController - GetAllProducts
+INFO  03:03:09 ProductController - GetAllProducts - All Products Fetched
+INFO  03:03:13 ProductController - GetAllProducts
+INFO  03:03:13 ProductController - GetAllProducts - All Products Fetched
+INFO  03:03:36 ProductController - GetAllProducts
+INFO  03:03:36 ProductController - GetAllProducts - All Products Fetched
+INFO  03:03:54 ProductController - GetAllProducts
+INFO  03:03:54 ProductController - GetAllProducts - All Products Fetched
+INFO  03:05:24 ProductController - GetAllProducts
+INFO  03:05:24 ProductController - GetAllProducts - All Products Fetched
+INFO  03:07:54 ProductController - GetAllProducts
+INFO  03:07:54 ProductController - GetAllProducts - All Products Fetched
+INFO  03:08:41 ProductController - GetAllProducts
+INFO  03:08:41 ProductController - GetAllProducts - All Products Fetched
+INFO  03:09:19 ProductController - GetAllProducts
+INFO  03:09:19 ProductController - GetAllProducts - All Products Fetched
+INFO  03:09:27 ProductController - GetAllProducts
+INFO  03:09:27 ProductController - GetAllProducts - All Products Fetched
+INFO  03:09:31 ProductController - GetAllProducts
+INFO  03:09:31 ProductController - GetAllProducts - All Products Fetched
+INFO  03:09:36 ProductController - GetAllProducts
+INFO  03:09:36 ProductController - GetAllProducts - All Products Fetched
+INFO  03:09:42 ProductController - GetAllProducts
+INFO  03:09:42 ProductController - GetAllProducts - All Products Fetched
+INFO  03:11:18 ProductController - GetAllProducts
+INFO  03:11:18 ProductController - GetAllProducts - All Products Fetched
+INFO  03:12:25 ProductController - GetAllProducts
+INFO  03:12:25 ProductController - GetAllProducts - All Products Fetched
+INFO  03:12:38 ProductController - GetAllProducts
+INFO  03:12:38 ProductController - GetAllProducts - All Products Fetched
+INFO  03:12:42 ProductController - GetAllProducts
+INFO  03:12:42 ProductController - GetAllProducts - All Products Fetched
+INFO  03:12:50 ProductController - GetAllProducts
+INFO  03:12:50 ProductController - GetAllProducts - All Products Fetched
+INFO  03:13:22 ProductController - GetAllProducts
+INFO  03:13:22 ProductController - GetAllProducts - All Products Fetched
+INFO  03:14:52 ProductController - GetAllProducts
+INFO  03:14:52 ProductController - GetAllProducts - All Products Fetched
+INFO  03:15:21 ProductController - GetAllProducts
+INFO  03:15:21 ProductController - GetAllProducts - All Products Fetched
+INFO  03:23:22 ProductController - GetAllProducts
+INFO  03:23:22 ProductController - GetAllProducts - All Products Fetched
+INFO  03:23:58 ProductController - GetAllProducts
+INFO  03:23:58 ProductController - GetAllProducts - All Products Fetched
+INFO  03:24:05 ProductController - GetAllProducts
+INFO  03:24:05 ProductController - GetAllProducts - All Products Fetched
+INFO  03:24:42 ProductController - GetAllProducts
+INFO  03:24:42 ProductController - GetAllProducts - All Products Fetched
+INFO  03:25:17 ProductController - GetAllProducts
+INFO  03:25:17 ProductController - GetAllProducts - All Products Fetched
+INFO  03:26:52 ProductController - GetAllProducts
+INFO  03:26:52 ProductController - GetAllProducts - All Products Fetched
+INFO  03:27:09 ProductController - GetAllProducts
+INFO  03:27:09 ProductController - GetAllProducts - All Products Fetched
+INFO  03:27:40 ProductController - SearchProductById
+INFO  03:27:40 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:28:53 ProductController - SearchProductById
+INFO  03:28:53 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:28:57 ProductController - SearchProductById
+INFO  03:28:57 ProductController - SearchProductById - Successfuly Searched Product Id: 2
+INFO  03:29:17 ProductController - GetAllProducts
+INFO  03:29:17 ProductController - GetAllProducts - All Products Fetched
+INFO  03:29:21 ProductController - GetAllProducts
+INFO  03:29:21 ProductController - GetAllProducts - All Products Fetched
+INFO  03:29:29 ProductController - GetAllProducts
+INFO  03:29:29 ProductController - GetAllProducts - All Products Fetched
+INFO  03:29:32 ProductController - GetAllProducts
+INFO  03:29:32 ProductController - GetAllProducts - All Products Fetched
+INFO  03:29:45 ProductController - GetAllProducts
+INFO  03:29:45 ProductController - GetAllProducts - All Products Fetched
+INFO  03:29:46 ProductController - GetAllProducts
+INFO  03:29:46 ProductController - GetAllProducts - All Products Fetched
+INFO  03:29:53 ProductController - SearchProductById
+INFO  03:29:53 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:58:40 ProductController - GetAllProducts
+INFO  03:58:40 ProductController - GetAllProducts - All Products Fetched
+INFO  03:58:53 ProductController - GetAllProducts
+INFO  03:58:53 ProductController - GetAllProducts - All Products Fetched
+INFO  03:59:02 ProductController - GetAllProducts
+INFO  03:59:02 ProductController - GetAllProducts - All Products Fetched
+INFO  03:59:11 ProductController - GetAllProducts
+INFO  03:59:11 ProductController - GetAllProducts - All Products Fetched
+INFO  04:01:23 ProductController - GetAllProducts
+INFO  04:01:23 ProductController - GetAllProducts - All Products Fetched
+INFO  04:05:34 ProductController - GetAllProducts
+INFO  04:05:34 ProductController - GetAllProducts - All Products Fetched
+INFO  04:05:54 ProductController - GetAllProducts
+INFO  04:05:54 ProductController - GetAllProducts - All Products Fetched
+INFO  04:05:57 ProductController - GetAllProducts
+INFO  04:05:57 ProductController - GetAllProducts - All Products Fetched
+INFO  04:05:58 ProductController - GetAllProducts
+INFO  04:05:58 ProductController - GetAllProducts - All Products Fetched
+INFO  04:06:01 ProductController - GetAllProducts
+INFO  04:06:01 ProductController - GetAllProducts - All Products Fetched
+INFO  04:06:05 ProductController - GetAllProducts
+INFO  04:06:05 ProductController - GetAllProducts - All Products Fetched
+INFO  04:06:14 ProductController - GetAllProducts
+INFO  04:06:14 ProductController - GetAllProducts - All Products Fetched
+INFO  04:06:15 ProductController - GetAllProducts
+INFO  04:06:15 ProductController - GetAllProducts - All Products Fetched
+INFO  04:06:18 ProductController - GetAllProducts
+INFO  04:06:18 ProductController - GetAllProducts - All Products Fetched
+INFO  04:06:20 ProductController - GetAllProducts
+INFO  04:06:20 ProductController - GetAllProducts - All Products Fetched
+INFO  04:07:37 ProductController - GetAllProducts
+INFO  04:07:37 ProductController - GetAllProducts - All Products Fetched
+INFO  04:08:16 ProductController - GetAllProducts
+INFO  04:08:16 ProductController - GetAllProducts - All Products Fetched
+INFO  04:08:25 ProductController - GetAllProducts
+INFO  04:08:25 ProductController - GetAllProducts - All Products Fetched
+INFO  04:12:57 ProductController - GetAllProducts
+INFO  04:12:57 ProductController - GetAllProducts - All Products Fetched
+INFO  04:13:10 ProductController - SearchProductById
+INFO  04:13:10 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  04:13:19 ProductController - GetAllProducts
+INFO  04:13:19 ProductController - GetAllProducts - All Products Fetched
+INFO  04:14:29 ProductController - SearchProductById
+INFO  04:14:29 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  04:14:37 ProductController - GetAllProducts
+INFO  04:14:37 ProductController - GetAllProducts - All Products Fetched
+INFO  04:15:13 ProductController - GetAllProducts
+INFO  04:15:13 ProductController - GetAllProducts - All Products Fetched
+INFO  04:15:41 ProductController - GetAllProducts
+INFO  04:15:41 ProductController - GetAllProducts - All Products Fetched
+INFO  04:15:42 ProductController - GetAllProducts
+INFO  04:15:42 ProductController - GetAllProducts - All Products Fetched
+INFO  04:15:57 ProductController - GetAllProducts
+INFO  04:15:57 ProductController - GetAllProducts - All Products Fetched
+INFO  04:17:24 ProductController - GetAllProducts
+INFO  04:17:24 ProductController - GetAllProducts - All Products Fetched
+INFO  04:20:27 ProductController - GetAllProducts
+INFO  04:20:27 ProductController - GetAllProducts - All Products Fetched
+INFO  04:20:28 ProductController - GetAllProducts
+INFO  04:20:28 ProductController - GetAllProducts - All Products Fetched
+INFO  04:20:33 ProductController - GetAllProducts
+INFO  04:20:33 ProductController - GetAllProducts - All Products Fetched
+INFO  04:20:35 ProductController - GetAllProducts
+INFO  04:20:35 ProductController - GetAllProducts - All Products Fetched
+INFO  04:20:40 ProductController - SearchProductById
+INFO  04:20:40 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  04:21:46 ProductController - GetAllProducts
+INFO  04:21:46 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:09 ProductController - GetAllProducts
+INFO  04:22:09 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:12 ProductController - GetAllProducts
+INFO  04:22:12 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:26 ProductController - GetAllProducts
+INFO  04:22:26 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:35 ProductController - GetAllProducts
+INFO  04:22:35 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:37 ProductController - GetAllProducts
+INFO  04:22:37 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:41 ProductController - GetAllProducts
+INFO  04:22:41 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:50 ProductController - GetAllProducts
+INFO  04:22:50 ProductController - GetAllProducts - All Products Fetched
+INFO  04:23:51 ProductController - GetAllProducts
+INFO  04:23:51 ProductController - GetAllProducts - All Products Fetched
+INFO  04:23:59 ProductController - GetAllProducts
+INFO  04:23:59 ProductController - GetAllProducts - All Products Fetched
+INFO  04:24:03 ProductController - GetAllProducts
+INFO  04:24:03 ProductController - GetAllProducts - All Products Fetched
+INFO  04:24:06 ProductController - GetAllProducts
+INFO  04:24:06 ProductController - GetAllProducts - All Products Fetched
+INFO  04:24:08 ProductController - GetAllProducts
+INFO  04:24:08 ProductController - GetAllProducts - All Products Fetched
+INFO  04:24:16 ProductController - GetAllProducts
+INFO  04:24:16 ProductController - GetAllProducts - All Products Fetched
+INFO  04:24:19 ProductController - GetAllProducts
+INFO  04:24:19 ProductController - GetAllProducts - All Products Fetched
+INFO  04:24:20 ProductController - GetAllProducts
+INFO  04:24:20 ProductController - GetAllProducts - All Products Fetched
+INFO  04:24:21 ProductController - GetAllProducts
+INFO  04:24:21 ProductController - GetAllProducts - All Products Fetched
+INFO  04:25:30 ProductController - GetAllProducts
+INFO  04:25:30 ProductController - GetAllProducts - All Products Fetched
+INFO  04:25:36 ProductController - GetAllProducts
+INFO  04:25:36 ProductController - GetAllProducts - All Products Fetched
+INFO  04:25:50 ProductController - GetAllProducts
+INFO  04:25:50 ProductController - GetAllProducts - All Products Fetched
+INFO  04:25:57 ProductController - GetAllProducts
+INFO  04:25:57 ProductController - GetAllProducts - All Products Fetched
+INFO  04:26:39 ProductController - GetAllProducts
+INFO  04:26:39 ProductController - GetAllProducts - All Products Fetched
+INFO  04:26:57 ProductController - GetAllProducts
+INFO  04:26:57 ProductController - GetAllProducts - All Products Fetched
+INFO  04:26:59 ProductController - GetAllProducts
+INFO  04:26:59 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:00 ProductController - GetAllProducts
+INFO  04:27:00 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:05 ProductController - GetAllProducts
+INFO  04:27:05 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:08 ProductController - GetAllProducts
+INFO  04:27:08 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:11 ProductController - GetAllProducts
+INFO  04:27:11 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:26 ProductController - GetAllProducts
+INFO  04:27:26 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:33 ProductController - GetAllProducts
+INFO  04:27:33 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:36 ProductController - GetAllProducts
+INFO  04:27:36 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:49 ProductController - GetAllProducts
+INFO  04:27:49 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:51 ProductController - GetAllProducts
+INFO  04:27:51 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:57 ProductController - GetAllProducts
+INFO  04:27:57 ProductController - GetAllProducts - All Products Fetched
+INFO  04:28:21 ProductController - GetAllProducts
+INFO  04:28:21 ProductController - GetAllProducts - All Products Fetched
+INFO  04:28:24 ProductController - GetAllProducts
+INFO  04:28:25 ProductController - GetAllProducts - All Products Fetched
+INFO  04:28:28 ProductController - GetAllProducts
+INFO  04:28:28 ProductController - GetAllProducts - All Products Fetched
+INFO  04:28:31 ProductController - GetAllProducts
+INFO  04:28:31 ProductController - GetAllProducts - All Products Fetched
+INFO  04:28:35 ProductController - GetAllProducts
+INFO  04:28:35 ProductController - GetAllProducts - All Products Fetched
+INFO  04:28:38 ProductController - GetAllProducts
+INFO  04:28:38 ProductController - GetAllProducts - All Products Fetched
+INFO  04:30:15 ProductController - GetAllProducts
+INFO  04:30:15 ProductController - GetAllProducts - All Products Fetched
+INFO  04:30:25 ProductController - GetAllProducts
+INFO  04:30:25 ProductController - GetAllProducts - All Products Fetched
+INFO  04:30:28 ProductController - GetAllProducts
+INFO  04:30:28 ProductController - GetAllProducts - All Products Fetched
+INFO  04:30:39 ProductController - GetAllProducts
+INFO  04:30:39 ProductController - GetAllProducts - All Products Fetched
+INFO  04:30:41 ProductController - GetAllProducts
+INFO  04:30:41 ProductController - GetAllProducts - All Products Fetched
+INFO  04:30:47 ProductController - GetAllProducts
+INFO  04:30:47 ProductController - GetAllProducts - All Products Fetched
+INFO  04:31:34 ProductController - GetAllProducts
+INFO  04:31:34 ProductController - GetAllProducts - All Products Fetched
+INFO  04:32:04 ProductController - GetAllProducts
+INFO  04:32:04 ProductController - GetAllProducts - All Products Fetched
+INFO  04:32:16 ProductController - GetAllProducts
+INFO  04:32:16 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:00 ProductController - GetAllProducts
+INFO  04:33:00 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:03 ProductController - GetAllProducts
+INFO  04:33:03 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:05 ProductController - GetAllProducts
+INFO  04:33:05 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:22 ProductController - GetAllProducts
+INFO  04:33:22 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:30 ProductController - GetAllProducts
+INFO  04:33:30 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:32 ProductController - GetAllProducts
+INFO  04:33:32 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:34 ProductController - GetAllProducts
+INFO  04:33:34 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:36 ProductController - GetAllProducts
+INFO  04:33:36 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:42 ProductController - GetAllProducts
+INFO  04:33:42 ProductController - GetAllProducts - All Products Fetched
+INFO  04:33:46 ProductController - GetAllProducts
+INFO  04:33:46 ProductController - GetAllProducts - All Products Fetched
+INFO  04:34:02 ProductController - GetAllProducts
+INFO  04:34:02 ProductController - GetAllProducts - All Products Fetched
+INFO  04:34:26 ProductController - GetAllProducts
+INFO  04:34:26 ProductController - GetAllProducts - All Products Fetched
+INFO  04:34:34 ProductController - GetAllProducts
+INFO  04:34:34 ProductController - GetAllProducts - All Products Fetched
+INFO  04:34:43 ProductController - GetAllProducts
+INFO  04:34:43 ProductController - GetAllProducts - All Products Fetched
+INFO  04:35:27 ProductController - GetAllProducts
+INFO  04:35:27 ProductController - GetAllProducts - All Products Fetched
+INFO  04:35:32 ProductController - GetAllProducts
+INFO  04:35:32 ProductController - GetAllProducts - All Products Fetched
+INFO  04:36:09 ProductController - GetAllProducts
+INFO  04:36:09 ProductController - GetAllProducts - All Products Fetched
+INFO  04:36:11 ProductController - GetAllProducts
+INFO  04:36:11 ProductController - GetAllProducts - All Products Fetched
+INFO  04:36:38 ProductController - GetAllProducts
+INFO  04:36:38 ProductController - GetAllProducts - All Products Fetched
+INFO  04:37:18 ProductController - SearchProductById
+INFO  04:37:18 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  04:37:25 ProductController - SearchProductById
+INFO  04:37:25 ProductController - SearchProductById - Successfuly Searched Product Id: 2
+INFO  04:37:37 ProductController - GetAllProducts
+INFO  04:37:37 ProductController - GetAllProducts - All Products Fetched
+INFO  04:37:49 ProductController - SearchProductById
+INFO  04:37:49 ProductController - SearchProductById - Successfuly Searched Product Id: 3
+INFO  04:38:08 ProductController - SearchProductByName
+INFO  04:38:08 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  04:38:33 ProductController - GetAllProducts
+INFO  04:38:33 ProductController - GetAllProducts - All Products Fetched
+INFO  04:39:27 ProductController - GetAllProducts
+INFO  04:39:27 ProductController - GetAllProducts - All Products Fetched
+INFO  04:39:31 ProductController - GetAllProducts
+INFO  04:39:31 ProductController - GetAllProducts - All Products Fetched
+INFO  05:07:07 ProductController - GetAllProducts
+INFO  05:07:07 ProductController - GetAllProducts - All Products Fetched
+INFO  05:07:32 ProductController - GetAllProducts
+INFO  05:07:32 ProductController - GetAllProducts - All Products Fetched
+INFO  05:11:23 ProductController - SearchProductById
+INFO  05:11:23 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  05:11:25 ProductController - SearchProductById
+INFO  05:11:25 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  05:11:43 ProductController - SearchProductById
+INFO  05:11:43 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  05:13:54 ProductController - GetAllProducts
+INFO  05:13:54 ProductController - GetAllProducts - All Products Fetched
+INFO  05:14:13 ProductController - GetAllProducts
+INFO  05:14:13 ProductController - GetAllProducts - All Products Fetched
+INFO  05:14:17 ProductController - GetAllProducts
+INFO  05:14:17 ProductController - GetAllProducts - All Products Fetched
+INFO  05:14:26 ProductController - GetAllProducts
+INFO  05:14:26 ProductController - GetAllProducts - All Products Fetched
+INFO  05:14:41 ProductController - GetAllProducts
+INFO  05:14:41 ProductController - GetAllProducts - All Products Fetched
+INFO  05:18:00 ProductController - GetAllProducts
+INFO  05:18:00 ProductController - GetAllProducts - All Products Fetched
+INFO  05:18:03 ProductController - GetAllProducts
+INFO  05:18:03 ProductController - GetAllProducts - All Products Fetched
+INFO  05:18:11 ProductController - GetAllProducts
+INFO  05:18:11 ProductController - GetAllProducts - All Products Fetched
+INFO  05:18:13 ProductController - GetAllProducts
+INFO  05:18:13 ProductController - GetAllProducts - All Products Fetched
+INFO  05:18:19 ProductController - SearchProductById
+INFO  05:18:19 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  05:21:44 ProductController - GetAllProducts
+INFO  05:21:44 ProductController - GetAllProducts - All Products Fetched
+INFO  05:22:21 ProductController - GetAllProducts
+INFO  05:22:21 ProductController - GetAllProducts - All Products Fetched
+INFO  05:22:28 ProductController - GetAllProducts
+INFO  05:22:28 ProductController - GetAllProducts - All Products Fetched
+INFO  05:22:32 ProductController - GetAllProducts
+INFO  05:22:32 ProductController - GetAllProducts - All Products Fetched
+INFO  05:23:10 ProductController - GetAllProducts
+INFO  05:23:10 ProductController - GetAllProducts - All Products Fetched
+INFO  05:23:50 ProductController - GetAllProducts
+INFO  05:23:50 ProductController - GetAllProducts - All Products Fetched
+INFO  05:24:27 ProductController - GetAllProducts
+INFO  05:24:27 ProductController - GetAllProducts - All Products Fetched
+INFO  05:24:42 ProductController - GetAllProducts
+INFO  05:24:42 ProductController - GetAllProducts - All Products Fetched
+INFO  05:24:56 ProductController - GetAllProducts
+INFO  05:24:56 ProductController - GetAllProducts - All Products Fetched
+INFO  05:25:59 ProductController - GetAllProducts
+INFO  05:25:59 ProductController - GetAllProducts - All Products Fetched
+INFO  05:26:13 ProductController - SearchProductById
+INFO  05:26:13 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  05:27:05 ProductController - GetAllProducts
+INFO  05:27:05 ProductController - GetAllProducts - All Products Fetched
+INFO  05:27:08 ProductController - SearchProductById
+INFO  05:27:08 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  05:27:48 ProductController - GetAllProducts
+INFO  05:27:48 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:44 ProductController - GetAllProducts
+INFO  05:34:44 ProductController - GetAllProducts - All Products Fetched
+INFO  05:42:29 ProductController - GetAllProducts
+INFO  05:42:29 ProductController - GetAllProducts - All Products Fetched
+INFO  05:42:51 ProductController - GetAllProducts
+INFO  05:42:51 ProductController - GetAllProducts - All Products Fetched
+INFO  05:43:05 ProductController - SearchProductById
+INFO  05:43:05 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:43:12 ProductController - SearchProductById
+INFO  05:43:12 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  05:46:25 ProductController - GetAllProducts
+INFO  05:46:25 ProductController - GetAllProducts - All Products Fetched
+INFO  05:46:32 ProductController - GetAllProducts
+INFO  05:46:32 ProductController - GetAllProducts - All Products Fetched
+INFO  05:46:35 ProductController - GetAllProducts
+INFO  05:46:35 ProductController - GetAllProducts - All Products Fetched
+INFO  05:54:14 ProductController - GetAllProducts
+INFO  05:54:14 ProductController - GetAllProducts - All Products Fetched
+INFO  05:54:19 ProductController - GetAllProducts
+INFO  05:54:19 ProductController - GetAllProducts - All Products Fetched
+INFO  05:54:31 ProductController - GetAllProducts
+INFO  05:54:31 ProductController - GetAllProducts - All Products Fetched
+INFO  05:54:36 ProductController - GetAllProducts
+INFO  05:54:36 ProductController - GetAllProducts - All Products Fetched
+INFO  05:54:44 ProductController - GetAllProducts
+INFO  05:54:44 ProductController - GetAllProducts - All Products Fetched
+INFO  05:54:58 ProductController - GetAllProducts
+INFO  05:54:58 ProductController - GetAllProducts - All Products Fetched
+INFO  05:55:04 ProductController - GetAllProducts
+INFO  05:55:04 ProductController - GetAllProducts - All Products Fetched
+INFO  05:55:45 ProductController - GetAllProducts
+INFO  05:55:45 ProductController - GetAllProducts - All Products Fetched
+INFO  05:55:50 ProductController - GetAllProducts
+INFO  05:55:50 ProductController - GetAllProducts - All Products Fetched
+INFO  05:56:04 ProductController - GetAllProducts
+INFO  05:56:04 ProductController - GetAllProducts - All Products Fetched
+INFO  06:00:45 ProductController - GetAllProducts
+INFO  06:00:45 ProductController - GetAllProducts - All Products Fetched
+INFO  06:00:56 ProductController - GetAllProducts
+INFO  06:00:56 ProductController - GetAllProducts - All Products Fetched
+INFO  06:01:44 ProductController - GetAllProducts
+INFO  06:01:44 ProductController - GetAllProducts - All Products Fetched
+INFO  06:05:37 ProductController - GetAllProducts
+INFO  06:05:37 ProductController - GetAllProducts - All Products Fetched
+INFO  06:06:11 ProductController - GetAllProducts
+INFO  06:06:11 ProductController - GetAllProducts - All Products Fetched
+INFO  06:07:48 ProductController - SearchProductById
+INFO  06:07:48 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  06:09:05 ProductController - GetAllProducts
+INFO  06:09:05 ProductController - GetAllProducts - All Products Fetched
+INFO  06:09:25 ProductController - GetAllProducts
+INFO  06:09:25 ProductController - GetAllProducts - All Products Fetched
+INFO  06:11:08 ProductController - GetAllProducts
+INFO  06:11:08 ProductController - GetAllProducts - All Products Fetched
+INFO  06:14:22 ProductController - GetAllProducts
+INFO  06:14:22 ProductController - GetAllProducts - All Products Fetched
+INFO  06:14:53 ProductController - GetAllProducts
+INFO  06:14:53 ProductController - GetAllProducts - All Products Fetched
+INFO  06:14:56 ProductController - GetAllProducts
+INFO  06:14:56 ProductController - GetAllProducts - All Products Fetched
+INFO  06:15:22 ProductController - GetAllProducts
+INFO  06:15:22 ProductController - GetAllProducts - All Products Fetched
+INFO  06:15:26 ProductController - GetAllProducts
+INFO  06:15:26 ProductController - GetAllProducts - All Products Fetched
+INFO  06:15:28 ProductController - GetAllProducts
+INFO  06:15:28 ProductController - GetAllProducts - All Products Fetched
+INFO  06:19:05 ProductController - GetAllProducts
+INFO  06:19:05 ProductController - GetAllProducts - All Products Fetched
+INFO  06:19:07 ProductController - GetAllProducts
+INFO  06:19:07 ProductController - GetAllProducts - All Products Fetched
+INFO  06:19:52 ProductController - GetAllProducts
+INFO  06:19:52 ProductController - GetAllProducts - All Products Fetched
+INFO  06:33:43 ProductController - GetAllProducts
+INFO  06:33:43 ProductController - GetAllProducts - All Products Fetched
+INFO  06:34:53 ProductController - GetAllProducts
+INFO  06:34:53 ProductController - GetAllProducts - All Products Fetched
+INFO  06:49:22 ProductController - GetAllProducts
+INFO  06:49:22 ProductController - GetAllProducts - All Products Fetched
+INFO  06:50:18 ProductController - GetAllProducts
+INFO  06:50:18 ProductController - GetAllProducts - All Products Fetched
+INFO  06:50:28 ProductController - GetAllProducts
+INFO  06:50:28 ProductController - GetAllProducts - All Products Fetched
+INFO  06:51:11 ProductController - GetAllProducts
+INFO  06:51:11 ProductController - GetAllProducts - All Products Fetched
+INFO  06:51:33 ProductController - GetAllProducts
+INFO  06:51:33 ProductController - GetAllProducts - All Products Fetched
+INFO  06:52:36 ProductController - GetAllProducts
+INFO  06:52:36 ProductController - GetAllProducts - All Products Fetched
+INFO  07:21:48 ProductController - GetAllProducts
+INFO  07:21:48 ProductController - GetAllProducts - All Products Fetched
+INFO  07:22:58 ProductController - GetAllProducts
+INFO  07:22:58 ProductController - GetAllProducts - All Products Fetched
+INFO  07:36:50 ProductController - GetAllProducts
+INFO  07:36:50 ProductController - GetAllProducts - All Products Fetched
+INFO  07:38:11 ProductController - GetAllProducts
+INFO  07:38:11 ProductController - GetAllProducts - All Products Fetched
+INFO  07:38:18 ProductController - GetAllProducts
+INFO  07:38:18 ProductController - GetAllProducts - All Products Fetched
+INFO  07:38:25 ProductController - GetAllProducts
+INFO  07:38:25 ProductController - GetAllProducts - All Products Fetched
+INFO  07:40:00 ProductController - GetAllProducts
+INFO  07:40:00 ProductController - GetAllProducts - All Products Fetched
+INFO  07:40:06 ProductController - GetAllProducts
+INFO  07:40:06 ProductController - GetAllProducts - All Products Fetched
+INFO  07:40:26 ProductController - GetAllProducts
+INFO  07:40:26 ProductController - GetAllProducts - All Products Fetched
+INFO  07:40:30 ProductController - GetAllProducts
+INFO  07:40:30 ProductController - GetAllProducts - All Products Fetched
+INFO  07:40:35 ProductController - GetAllProducts
+INFO  07:40:35 ProductController - GetAllProducts - All Products Fetched
+INFO  07:40:40 ProductController - GetAllProducts
+INFO  07:40:40 ProductController - GetAllProducts - All Products Fetched
+INFO  07:41:05 ProductController - GetAllProducts
+INFO  07:41:05 ProductController - GetAllProducts - All Products Fetched
+INFO  07:41:53 ProductController - GetAllProducts
+INFO  07:41:53 ProductController - GetAllProducts - All Products Fetched
+INFO  07:43:34 ProductController - GetAllProducts
+INFO  07:43:34 ProductController - GetAllProducts - All Products Fetched
+INFO  07:43:53 ProductController - GetAllProducts
+INFO  07:43:53 ProductController - GetAllProducts - All Products Fetched
+INFO  07:44:48 ProductController - GetAllProducts
+INFO  07:44:48 ProductController - GetAllProducts - All Products Fetched
+INFO  07:48:01 ProductController - GetAllProducts
+INFO  07:48:01 ProductController - GetAllProducts - All Products Fetched
+INFO  07:48:09 ProductController - GetAllProducts
+INFO  07:48:09 ProductController - GetAllProducts - All Products Fetched
+INFO  07:48:23 ProductController - GetAllProducts
+INFO  07:48:23 ProductController - GetAllProducts - All Products Fetched
+INFO  07:50:31 ProductController - GetAllProducts
+INFO  07:50:31 ProductController - GetAllProducts - All Products Fetched
+INFO  07:50:33 ProductController - GetAllProducts
+INFO  07:50:33 ProductController - GetAllProducts - All Products Fetched
+INFO  07:50:34 ProductController - GetAllProducts
+INFO  07:50:34 ProductController - GetAllProducts - All Products Fetched
+INFO  07:50:36 ProductController - GetAllProducts
+INFO  07:50:36 ProductController - GetAllProducts - All Products Fetched
+INFO  07:54:46 ProductController - GetAllProducts
+INFO  07:54:46 ProductController - GetAllProducts - All Products Fetched
+INFO  07:55:10 ProductController - GetAllProducts
+INFO  07:55:10 ProductController - GetAllProducts - All Products Fetched
+INFO  07:55:14 ProductController - GetAllProducts
+INFO  07:55:14 ProductController - GetAllProducts - All Products Fetched
+INFO  07:59:07 ProductController - GetAllProducts
+INFO  07:59:07 ProductController - GetAllProducts - All Products Fetched
+INFO  08:03:14 ProductController - GetAllProducts
+INFO  08:03:14 ProductController - GetAllProducts - All Products Fetched
+INFO  08:08:11 ProductController - GetAllProducts
+INFO  08:08:11 ProductController - GetAllProducts - All Products Fetched
+INFO  08:08:17 ProductController - GetAllProducts
+INFO  08:08:17 ProductController - GetAllProducts - All Products Fetched
+INFO  08:21:46 ProductController - GetAllProducts
+INFO  08:21:46 ProductController - GetAllProducts - All Products Fetched
+INFO  08:24:03 ProductController - GetAllProducts
+INFO  08:24:03 ProductController - GetAllProducts - All Products Fetched
+INFO  08:30:45 ProductController - GetAllProducts
+INFO  08:30:45 ProductController - GetAllProducts - All Products Fetched
+INFO  08:48:17 ProductController - GetAllProducts
+INFO  08:48:17 ProductController - GetAllProducts - All Products Fetched
+INFO  08:48:41 ProductController - GetAllProducts
+INFO  08:48:41 ProductController - GetAllProducts - All Products Fetched
+INFO  08:48:55 ProductController - GetAllProducts
+INFO  08:48:55 ProductController - GetAllProducts - All Products Fetched
+INFO  08:50:52 ProductController - GetAllProducts
+INFO  08:50:52 ProductController - GetAllProducts - All Products Fetched
+INFO  08:51:52 ProductController - GetAllProducts
+INFO  08:51:53 ProductController - GetAllProducts - All Products Fetched
+INFO  08:51:59 ProductController - SearchProductById
+INFO  08:51:59 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  08:52:38 ProductController - GetAllProducts
+INFO  08:52:38 ProductController - GetAllProducts - All Products Fetched
+INFO  08:54:06 ProductController - GetAllProducts
+INFO  08:54:06 ProductController - GetAllProducts - All Products Fetched
+INFO  08:55:14 ProductController - GetAllProducts
+INFO  08:55:14 ProductController - GetAllProducts - All Products Fetched
+INFO  08:55:42 ProductController - GetAllProducts
+INFO  08:55:42 ProductController - GetAllProducts - All Products Fetched
+INFO  09:11:30 ProductController - GetAllProducts
+INFO  09:11:30 ProductController - GetAllProducts - All Products Fetched
+INFO  09:11:54 ProductController - GetAllProducts
+INFO  09:11:54 ProductController - GetAllProducts - All Products Fetched
+INFO  09:13:02 ProductController - GetAllProducts
+INFO  09:13:02 ProductController - GetAllProducts - All Products Fetched
+INFO  09:17:26 ProductController - GetAllProducts
+INFO  09:17:26 ProductController - GetAllProducts - All Products Fetched
+INFO  09:18:38 ProductController - GetAllProducts
+INFO  09:18:38 ProductController - GetAllProducts - All Products Fetched
+INFO  09:19:01 ProductController - GetAllProducts
+INFO  09:19:01 ProductController - GetAllProducts - All Products Fetched
+INFO  09:19:03 ProductController - GetAllProducts
+INFO  09:19:04 ProductController - GetAllProducts - All Products Fetched
+INFO  09:19:09 ProductController - GetAllProducts
+INFO  09:19:09 ProductController - GetAllProducts - All Products Fetched
+INFO  09:19:13 ProductController - GetAllProducts
+INFO  09:19:13 ProductController - GetAllProducts - All Products Fetched
+INFO  09:19:57 ProductController - GetAllProducts
+INFO  09:19:57 ProductController - GetAllProducts - All Products Fetched
+INFO  09:20:11 ProductController - GetAllProducts
+INFO  09:20:11 ProductController - GetAllProducts - All Products Fetched
+INFO  09:20:17 ProductController - GetAllProducts
+INFO  09:20:17 ProductController - GetAllProducts - All Products Fetched
+INFO  09:21:29 ProductController - GetAllProducts
+INFO  09:21:29 ProductController - GetAllProducts - All Products Fetched
+INFO  09:23:46 ProductController - GetAllProducts
+INFO  09:23:46 ProductController - GetAllProducts - All Products Fetched
+INFO  09:26:08 ProductController - GetAllProducts
+INFO  09:26:08 ProductController - GetAllProducts - All Products Fetched
+INFO  09:26:25 ProductController - GetAllProducts
+INFO  09:26:25 ProductController - GetAllProducts - All Products Fetched
+INFO  09:26:51 ProductController - GetAllProducts
+INFO  09:26:51 ProductController - GetAllProducts - All Products Fetched
+INFO  09:26:55 ProductController - GetAllProducts
+INFO  09:26:55 ProductController - GetAllProducts - All Products Fetched
+INFO  09:29:26 ProductController - GetAllProducts
+INFO  09:29:26 ProductController - GetAllProducts - All Products Fetched
+INFO  09:30:39 ProductController - GetAllProducts
+INFO  09:30:39 ProductController - GetAllProducts - All Products Fetched
+INFO  09:33:27 ProductController - GetAllProducts
+INFO  09:33:27 ProductController - GetAllProducts - All Products Fetched
+INFO  09:33:29 ProductController - GetAllProducts
+INFO  09:33:29 ProductController - GetAllProducts - All Products Fetched
+INFO  09:33:30 ProductController - GetAllProducts
+INFO  09:33:30 ProductController - GetAllProducts - All Products Fetched
+INFO  09:33:41 ProductController - GetAllProducts
+INFO  09:33:41 ProductController - GetAllProducts - All Products Fetched
+INFO  09:33:52 ProductController - GetAllProducts
+INFO  09:33:52 ProductController - GetAllProducts - All Products Fetched
+INFO  09:35:18 ProductController - GetAllProducts
+INFO  09:35:18 ProductController - GetAllProducts - All Products Fetched
+INFO  09:42:32 ProductController - GetAllProducts
+INFO  09:42:32 ProductController - GetAllProducts - All Products Fetched
+INFO  09:43:19 ProductController - GetAllProducts
+INFO  09:43:19 ProductController - GetAllProducts - All Products Fetched
+INFO  09:43:26 ProductController - GetAllProducts
+INFO  09:43:26 ProductController - GetAllProducts - All Products Fetched
+INFO  09:43:29 ProductController - GetAllProducts
+INFO  09:43:29 ProductController - GetAllProducts - All Products Fetched
+INFO  09:43:33 ProductController - GetAllProducts
+INFO  09:43:33 ProductController - GetAllProducts - All Products Fetched
+INFO  09:45:00 ProductController - GetAllProducts
+INFO  09:45:00 ProductController - GetAllProducts - All Products Fetched
+INFO  09:45:48 ProductController - GetAllProducts
+INFO  09:45:48 ProductController - GetAllProducts - All Products Fetched
+INFO  09:47:25 ProductController - GetAllProducts
+INFO  09:47:25 ProductController - GetAllProducts - All Products Fetched
+INFO  09:52:48 ProductController - GetAllProducts
+INFO  09:52:48 ProductController - GetAllProducts - All Products Fetched
+INFO  09:52:53 ProductController - GetAllProducts
+INFO  09:52:53 ProductController - GetAllProducts - All Products Fetched
+INFO  09:52:56 ProductController - GetAllProducts
+INFO  09:52:56 ProductController - GetAllProducts - All Products Fetched
+INFO  09:53:04 ProductController - GetAllProducts
+INFO  09:53:04 ProductController - GetAllProducts - All Products Fetched
+INFO  09:53:09 ProductController - GetAllProducts
+INFO  09:53:09 ProductController - GetAllProducts - All Products Fetched
+INFO  09:53:13 ProductController - GetAllProducts
+INFO  09:53:13 ProductController - GetAllProducts - All Products Fetched
+INFO  09:55:54 ProductController - GetAllProducts
+INFO  09:55:54 ProductController - GetAllProducts - All Products Fetched
+INFO  09:56:01 ProductController - GetAllProducts
+INFO  09:56:01 ProductController - GetAllProducts - All Products Fetched
+INFO  09:56:31 ProductController - GetAllProducts
+INFO  09:56:31 ProductController - GetAllProducts - All Products Fetched
+INFO  09:56:38 ProductController - GetAllProducts
+INFO  09:56:38 ProductController - GetAllProducts - All Products Fetched
+INFO  10:03:30 ProductController - GetAllProducts
+INFO  10:03:30 ProductController - GetAllProducts - All Products Fetched
+INFO  10:10:39 ProductController - GetAllProducts
+INFO  10:10:39 ProductController - GetAllProducts - All Products Fetched
+INFO  10:12:18 ProductController - GetAllProducts
+INFO  10:12:18 ProductController - GetAllProducts - All Products Fetched
+INFO  10:12:21 ProductController - GetAllProducts
+INFO  10:12:21 ProductController - GetAllProducts - All Products Fetched
+INFO  10:16:54 ProductController - GetAllProducts
+INFO  10:16:54 ProductController - GetAllProducts - All Products Fetched
+INFO  10:16:56 ProductController - GetAllProducts
+INFO  10:16:56 ProductController - GetAllProducts - All Products Fetched
+INFO  10:17:19 ProductController - GetAllProducts
+INFO  10:17:19 ProductController - GetAllProducts - All Products Fetched
+INFO  10:18:18 ProductController - GetAllProducts
+INFO  10:18:18 ProductController - GetAllProducts - All Products Fetched
+INFO  10:18:35 ProductController - GetAllProducts
+INFO  10:18:35 ProductController - GetAllProducts - All Products Fetched
+INFO  10:18:44 ProductController - GetAllProducts
+INFO  10:18:44 ProductController - GetAllProducts - All Products Fetched
+INFO  10:18:46 ProductController - GetAllProducts
+INFO  10:18:46 ProductController - GetAllProducts - All Products Fetched
+INFO  10:21:39 ProductController - GetAllProducts
+INFO  10:21:39 ProductController - GetAllProducts - All Products Fetched
+INFO  10:24:08 ProductController - GetAllProducts
+INFO  10:24:08 ProductController - GetAllProducts - All Products Fetched
+INFO  10:26:17 ProductController - AddProductRating
+INFO  10:26:17 Add Product Rating
+INFO  10:35:36 ProductController - GetAllProducts
+INFO  10:35:36 ProductController - GetAllProducts - All Products Fetched
+INFO  10:43:35 ProductController - GetAllProducts
+INFO  10:43:35 ProductController - GetAllProducts - All Products Fetched
+INFO  10:50:54 ProductController - GetAllProducts
+INFO  10:50:54 ProductController - GetAllProducts - All Products Fetched
+INFO  10:50:56 ProductController - GetAllProducts
+INFO  10:50:56 ProductController - GetAllProducts - All Products Fetched
+INFO  10:51:12 ProductController - GetAllProducts
+INFO  10:51:12 ProductController - GetAllProducts - All Products Fetched
+INFO  10:51:16 ProductController - GetAllProducts
+INFO  10:51:16 ProductController - GetAllProducts - All Products Fetched
+INFO  10:54:23 ProductController - GetAllProducts
+INFO  10:54:23 ProductController - GetAllProducts - All Products Fetched
+INFO  10:54:41 ProductController - GetAllProducts
+INFO  10:54:41 ProductController - GetAllProducts - All Products Fetched
+INFO  10:54:43 ProductController - GetAllProducts
+INFO  10:54:43 ProductController - GetAllProducts - All Products Fetched
+INFO  10:55:01 ProductController - GetAllProducts
+INFO  10:55:01 ProductController - GetAllProducts - All Products Fetched
+INFO  10:55:26 ProductController - GetAllProducts
+INFO  10:55:26 ProductController - GetAllProducts - All Products Fetched
+INFO  10:55:36 ProductController - GetAllProducts
+INFO  10:55:36 ProductController - GetAllProducts - All Products Fetched
+INFO  10:55:43 ProductController - GetAllProducts
+INFO  10:55:43 ProductController - GetAllProducts - All Products Fetched
+INFO  10:55:56 ProductController - GetAllProducts
+INFO  10:55:56 ProductController - GetAllProducts - All Products Fetched
+INFO  10:55:59 ProductController - GetAllProducts
+INFO  10:55:59 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:07 ProductController - GetAllProducts
+INFO  10:56:07 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:21 ProductController - GetAllProducts
+INFO  10:56:21 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:29 ProductController - GetAllProducts
+INFO  10:56:29 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:35 ProductController - GetAllProducts
+INFO  10:56:35 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:38 ProductController - GetAllProducts
+INFO  10:56:38 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:41 ProductController - GetAllProducts
+INFO  10:56:41 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:43 ProductController - GetAllProducts
+INFO  10:56:43 ProductController - GetAllProducts - All Products Fetched
+INFO  10:57:02 ProductController - GetAllProducts
+INFO  10:57:02 ProductController - GetAllProducts - All Products Fetched
+INFO  10:57:04 ProductController - GetAllProducts
+INFO  10:57:04 ProductController - GetAllProducts - All Products Fetched
+INFO  10:57:19 ProductController - GetAllProducts
+INFO  10:57:19 ProductController - GetAllProducts - All Products Fetched
+INFO  11:11:07 ProductController - GetAllProducts
+INFO  11:11:07 ProductController - GetAllProducts - All Products Fetched
+INFO  11:20:21 ProductController - GetAllProducts
+INFO  11:20:21 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:03 ProductController - GetAllProducts
+INFO  11:22:03 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:08 ProductController - GetAllProducts
+INFO  11:22:08 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:09 ProductController - GetAllProducts
+INFO  11:22:09 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:11 ProductController - GetAllProducts
+INFO  11:22:11 ProductController - GetAllProducts - All Products Fetched
+INFO  11:26:08 ProductController - GetAllProducts
+INFO  11:26:08 ProductController - GetAllProducts - All Products Fetched
+INFO  11:26:11 ProductController - GetAllProducts
+INFO  11:26:11 ProductController - GetAllProducts - All Products Fetched
+INFO  11:26:19 ProductController - GetAllProducts
+INFO  11:26:20 ProductController - GetAllProducts - All Products Fetched
+INFO  11:26:32 ProductController - GetAllProducts
+INFO  11:26:32 ProductController - GetAllProducts - All Products Fetched
+INFO  11:26:45 ProductController - GetAllProducts
+INFO  11:26:45 ProductController - GetAllProducts - All Products Fetched
+INFO  11:26:53 ProductController - GetAllProducts
+INFO  11:26:53 ProductController - GetAllProducts - All Products Fetched
+INFO  11:27:08 ProductController - GetAllProducts
+INFO  11:27:08 ProductController - GetAllProducts - All Products Fetched
+INFO  11:29:06 ProductController - GetAllProducts
+INFO  11:29:06 ProductController - GetAllProducts - All Products Fetched
+INFO  11:29:14 ProductController - GetAllProducts
+INFO  11:29:14 ProductController - GetAllProducts - All Products Fetched
+INFO  11:29:32 ProductController - GetAllProducts
+INFO  11:29:32 ProductController - GetAllProducts - All Products Fetched
+INFO  11:29:50 ProductController - GetAllProducts
+INFO  11:29:50 ProductController - GetAllProducts - All Products Fetched
+INFO  11:32:58 ProductController - GetAllProducts
+INFO  11:32:58 ProductController - GetAllProducts - All Products Fetched
+INFO  11:34:00 ProductController - GetAllProducts
+INFO  11:34:00 ProductController - GetAllProducts - All Products Fetched
+INFO  11:34:06 ProductController - GetAllProducts
+INFO  11:34:06 ProductController - GetAllProducts - All Products Fetched
+INFO  11:34:43 ProductController - GetAllProducts
+INFO  11:34:43 ProductController - GetAllProducts - All Products Fetched
+INFO  11:35:46 ProductController - GetAllProducts
+INFO  11:35:46 ProductController - GetAllProducts - All Products Fetched
+INFO  11:36:01 ProductController - GetAllProducts
+INFO  11:36:01 ProductController - GetAllProducts - All Products Fetched
+INFO  11:36:14 ProductController - GetAllProducts
+INFO  11:36:14 ProductController - GetAllProducts - All Products Fetched
+INFO  11:50:33 ProductController - GetAllProducts
+INFO  11:50:33 ProductController - GetAllProducts - All Products Fetched
+INFO  11:50:51 ProductController - GetAllProducts
+INFO  11:50:51 ProductController - GetAllProducts - All Products Fetched
+INFO  11:51:11 ProductController - SearchProductById
+INFO  11:51:11 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  11:51:28 ProductController - GetAllProducts
+INFO  11:51:28 ProductController - GetAllProducts - All Products Fetched
+INFO  12:11:37 ProductController - GetAllProducts
+INFO  12:11:37 ProductController - GetAllProducts - All Products Fetched
+INFO  12:12:28 ProductController - GetAllProducts
+INFO  12:12:28 ProductController - GetAllProducts - All Products Fetched
+INFO  12:12:30 ProductController - GetAllProducts
+INFO  12:12:30 ProductController - GetAllProducts - All Products Fetched
+INFO  12:12:44 ProductController - GetAllProducts
+INFO  12:12:44 ProductController - GetAllProducts - All Products Fetched
+INFO  12:12:53 ProductController - GetAllProducts
+INFO  12:12:53 ProductController - GetAllProducts - All Products Fetched
+INFO  12:12:59 ProductController - GetAllProducts
+INFO  12:12:59 ProductController - GetAllProducts - All Products Fetched
+INFO  12:13:02 ProductController - GetAllProducts
+INFO  12:13:02 ProductController - GetAllProducts - All Products Fetched
+INFO  12:13:25 ProductController - GetAllProducts
+INFO  12:13:25 ProductController - GetAllProducts - All Products Fetched
+INFO  12:16:30 ProductController - GetAllProducts
+INFO  12:16:30 ProductController - GetAllProducts - All Products Fetched
+INFO  12:16:41 ProductController - GetAllProducts
+INFO  12:16:41 ProductController - GetAllProducts - All Products Fetched
+INFO  12:17:05 ProductController - SearchProductById
+INFO  12:17:05 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  12:17:34 ProductController - GetAllProducts
+INFO  12:17:34 ProductController - GetAllProducts - All Products Fetched
+INFO  12:17:53 ProductController - GetAllProducts
+INFO  12:17:53 ProductController - GetAllProducts - All Products Fetched
+INFO  12:18:02 ProductController - GetAllProducts
+INFO  12:18:02 ProductController - GetAllProducts - All Products Fetched
+INFO  12:18:17 ProductController - SearchProductByName
+INFO  12:18:17 ProductController - SearchProductByName - Successfuly Searched Product Name: Redmi
+INFO  12:18:24 ProductController - SearchProductByName
+INFO  12:18:24 ProductController - SearchProductByName - Search Failed for Product Name: sdfghytfgb
+INFO  12:49:38 ProductController - GetAllProducts
+INFO  12:49:38 ProductController - GetAllProducts - All Products Fetched
+INFO  12:52:22 ProductController - GetAllProducts
+INFO  12:52:22 ProductController - GetAllProducts - All Products Fetched
+INFO  01:02:00 ProductController - GetAllProducts
+INFO  01:02:00 ProductController - GetAllProducts - All Products Fetched
+INFO  01:04:35 ProductController - GetAllProducts
+INFO  01:04:35 ProductController - GetAllProducts - All Products Fetched
+INFO  01:05:06 ProductController - GetAllProducts
+INFO  01:05:06 ProductController - GetAllProducts - All Products Fetched
+INFO  01:05:12 ProductController - GetAllProducts
+INFO  01:05:12 ProductController - GetAllProducts - All Products Fetched
+INFO  01:05:17 ProductController - GetAllProducts
+INFO  01:05:17 ProductController - GetAllProducts - All Products Fetched
+INFO  01:05:20 ProductController - GetAllProducts
+INFO  01:05:20 ProductController - GetAllProducts - All Products Fetched
+INFO  01:05:23 ProductController - GetAllProducts
+INFO  01:05:23 ProductController - GetAllProducts - All Products Fetched
+INFO  01:05:38 ProductController - GetAllProducts
+INFO  01:05:38 ProductController - GetAllProducts - All Products Fetched
+INFO  01:07:34 ProductController - GetAllProducts
+INFO  01:07:34 ProductController - GetAllProducts - All Products Fetched
+INFO  01:07:48 ProductController - GetAllProducts
+INFO  01:07:48 ProductController - GetAllProducts - All Products Fetched
+INFO  01:09:20 ProductController - GetAllProducts
+INFO  01:09:20 ProductController - GetAllProducts - All Products Fetched
+INFO  01:09:52 ProductController - GetAllProducts
+INFO  01:09:52 ProductController - GetAllProducts - All Products Fetched
+INFO  01:10:24 ProductController - GetAllProducts
+INFO  01:10:24 ProductController - GetAllProducts - All Products Fetched
+INFO  01:11:01 ProductController - GetAllProducts
+INFO  01:11:01 ProductController - GetAllProducts - All Products Fetched
+INFO  01:11:16 ProductController - GetAllProducts
+INFO  01:11:16 ProductController - GetAllProducts - All Products Fetched
+INFO  01:11:57 ProductController - GetAllProducts
+INFO  01:11:57 ProductController - GetAllProducts - All Products Fetched
+INFO  01:12:23 ProductController - GetAllProducts
+INFO  01:12:23 ProductController - GetAllProducts - All Products Fetched
+INFO  01:12:52 ProductController - GetAllProducts
+INFO  01:12:52 ProductController - GetAllProducts - All Products Fetched
+INFO  01:13:25 ProductController - GetAllProducts
+INFO  01:13:25 ProductController - GetAllProducts - All Products Fetched
+INFO  01:28:45 ProductController - GetAllProducts
+INFO  01:28:45 ProductController - GetAllProducts - All Products Fetched
+INFO  01:35:12 ProductController - GetAllProducts
+INFO  01:35:12 ProductController - GetAllProducts - All Products Fetched
+INFO  01:37:40 ProductController - GetAllProducts
+INFO  01:37:40 ProductController - GetAllProducts - All Products Fetched
+INFO  01:37:54 ProductController - GetAllProducts
+INFO  01:37:54 ProductController - GetAllProducts - All Products Fetched
+INFO  01:38:17 ProductController - GetAllProducts
+INFO  01:38:17 ProductController - GetAllProducts - All Products Fetched
+INFO  01:38:29 ProductController - GetAllProducts
+INFO  01:38:29 ProductController - GetAllProducts - All Products Fetched
+INFO  01:38:40 ProductController - GetAllProducts
+INFO  01:38:40 ProductController - GetAllProducts - All Products Fetched
+INFO  01:38:43 ProductController - GetAllProducts
+INFO  01:38:43 ProductController - GetAllProducts - All Products Fetched
+INFO  01:38:46 ProductController - GetAllProducts
+INFO  01:38:46 ProductController - GetAllProducts - All Products Fetched
+INFO  01:39:26 ProductController - GetAllProducts
+INFO  01:39:26 ProductController - GetAllProducts - All Products Fetched
+INFO  01:39:28 ProductController - GetAllProducts
+INFO  01:39:28 ProductController - GetAllProducts - All Products Fetched
+INFO  01:40:21 ProductController - GetAllProducts
+INFO  01:40:21 ProductController - GetAllProducts - All Products Fetched
+INFO  01:40:25 ProductController - GetAllProducts
+INFO  01:40:25 ProductController - GetAllProducts - All Products Fetched
+INFO  01:47:19 ProductController - AddProductRating
+INFO  01:47:19 ProductController - AddProductRating
+INFO  01:47:19 Add Product Rating
+INFO  01:47:19 Add Product Rating
+INFO  01:47:31 ProductController - GetAllProducts
+INFO  01:47:31 ProductController - GetAllProducts - All Products Fetched
+INFO  01:48:06 ProductController - GetAllProducts
+INFO  01:48:06 ProductController - GetAllProducts - All Products Fetched
+INFO  03:55:27 Application started. Press Ctrl+C to shut down.
+INFO  03:55:27 Hosting environment: Development
+INFO  03:55:27 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:56:40 ProductController - GetAllProducts
+INFO  03:56:41 ProductController - GetAllProducts - All Products Fetched
+INFO  03:58:21 ProductController - GetAllProducts
+INFO  03:58:21 ProductController - GetAllProducts - All Products Fetched
+INFO  03:58:47 ProductController - SearchProductById
+INFO  03:58:47 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  03:59:24 ProductController - GetAllProducts
+INFO  03:59:24 ProductController - GetAllProducts - All Products Fetched
+INFO  03:59:47 ProductController - GetAllProducts
+INFO  03:59:47 ProductController - GetAllProducts - All Products Fetched
+INFO  04:00:01 ProductController - GetAllProducts
+INFO  04:00:01 ProductController - GetAllProducts - All Products Fetched
+INFO  04:00:05 ProductController - SearchProductById
+INFO  04:00:05 ProductController - SearchProductById - Search Failed for Product Id: 20
+INFO  04:00:22 ProductController - GetAllProducts
+INFO  04:00:22 ProductController - GetAllProducts - All Products Fetched
+INFO  04:05:57 ProductController - GetAllProducts
+INFO  04:05:57 ProductController - GetAllProducts - All Products Fetched
+INFO  04:06:43 ProductController - GetAllProducts
+INFO  04:06:43 ProductController - GetAllProducts - All Products Fetched
+INFO  04:08:52 ProductController - GetAllProducts
+INFO  04:08:52 ProductController - GetAllProducts - All Products Fetched
+INFO  04:11:21 ProductController - GetAllProducts
+INFO  04:11:21 ProductController - GetAllProducts - All Products Fetched
+INFO  04:12:49 ProductController - GetAllProducts
+INFO  04:12:49 ProductController - GetAllProducts - All Products Fetched
+INFO  04:32:24 Application started. Press Ctrl+C to shut down.
+INFO  04:32:24 Hosting environment: Development
+INFO  04:32:24 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  04:36:03 ProductController - GetAllProducts
+INFO  04:36:04 ProductController - GetAllProducts - All Products Fetched
+INFO  04:37:06 ProductController - AddProductRating
+INFO  04:37:06 ProductController - AddProductRating
+INFO  04:38:15 ProductController - GetAllProducts
+INFO  04:38:15 ProductController - GetAllProducts - All Products Fetched
+INFO  04:38:52 ProductController - GetAllProducts
+INFO  04:38:52 ProductController - GetAllProducts - All Products Fetched
+INFO  04:39:05 ProductController - GetAllProducts
+INFO  04:39:05 ProductController - GetAllProducts - All Products Fetched
+INFO  04:40:15 ProductController - GetAllProducts
+INFO  04:40:15 ProductController - GetAllProducts - All Products Fetched
+INFO  05:01:44 ProductController - GetAllProducts
+INFO  05:01:44 ProductController - GetAllProducts - All Products Fetched
+INFO  05:01:55 ProductController - GetAllProducts
+INFO  05:01:55 ProductController - GetAllProducts - All Products Fetched
+INFO  05:01:59 ProductController - GetAllProducts
+INFO  05:01:59 ProductController - GetAllProducts - All Products Fetched
+INFO  05:02:52 ProductController - GetAllProducts
+INFO  05:02:52 ProductController - GetAllProducts - All Products Fetched
+INFO  05:03:13 ProductController - GetAllProducts
+INFO  05:03:13 ProductController - GetAllProducts - All Products Fetched
+INFO  06:47:25 Application started. Press Ctrl+C to shut down.
+INFO  06:47:25 Hosting environment: Development
+INFO  06:47:25 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:49:55 Application started. Press Ctrl+C to shut down.
+INFO  06:49:55 Hosting environment: Development
+INFO  06:49:55 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:52:50 Application started. Press Ctrl+C to shut down.
+INFO  06:52:50 Hosting environment: Development
+INFO  06:52:50 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:52:56 ProductController - GetAllProducts
+INFO  06:52:57 ProductController - GetAllProducts - All Products Fetched
+INFO  06:56:49 Application started. Press Ctrl+C to shut down.
+INFO  06:56:49 Hosting environment: Development
+INFO  06:56:49 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  06:58:13 ProductController - GetAllProducts
+INFO  06:58:14 ProductController - GetAllProducts - All Products Fetched
+INFO  07:00:51 Application started. Press Ctrl+C to shut down.
+INFO  07:00:51 Hosting environment: Development
+INFO  07:00:51 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  07:03:21 Application started. Press Ctrl+C to shut down.
+INFO  07:03:21 Hosting environment: Development
+INFO  07:03:21 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  07:04:28 ProductController - GetAllProducts
+INFO  07:04:29 ProductController - GetAllProducts - All Products Fetched
+INFO  07:26:45 Application started. Press Ctrl+C to shut down.
+INFO  07:26:45 Hosting environment: Development
+INFO  07:26:45 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  07:28:16 ProductController - GetAllProducts
+INFO  07:28:17 ProductController - GetAllProducts - All Products Fetched
+INFO  07:31:30 Application started. Press Ctrl+C to shut down.
+INFO  07:31:30 Hosting environment: Development
+INFO  07:31:30 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  07:32:05 ProductController - GetAllProducts
+INFO  07:32:06 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:08 ProductController - GetAllProducts
+INFO  07:33:08 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:11 ProductController - GetAllProducts
+INFO  07:33:11 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:14 ProductController - GetAllProducts
+INFO  07:33:14 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:16 ProductController - GetAllProducts
+INFO  07:33:16 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:21 ProductController - GetAllProducts
+INFO  07:33:21 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:27 ProductController - GetAllProducts
+INFO  07:33:27 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:31 ProductController - GetAllProducts
+INFO  07:33:31 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:41 ProductController - GetAllProducts
+INFO  07:33:41 ProductController - GetAllProducts - All Products Fetched
+INFO  07:33:53 ProductController - GetAllProducts
+INFO  07:33:53 ProductController - GetAllProducts - All Products Fetched
+INFO  07:34:02 ProductController - GetAllProducts
+INFO  07:34:02 ProductController - GetAllProducts - All Products Fetched
+INFO  07:34:08 ProductController - GetAllProducts
+INFO  07:34:08 ProductController - GetAllProducts - All Products Fetched
+INFO  07:34:19 ProductController - GetAllProducts
+INFO  07:34:19 ProductController - GetAllProducts - All Products Fetched
+INFO  07:34:33 ProductController - GetAllProducts
+INFO  07:34:33 ProductController - GetAllProducts - All Products Fetched
+INFO  07:34:43 ProductController - GetAllProducts
+INFO  07:34:43 ProductController - GetAllProducts - All Products Fetched
+INFO  07:34:55 ProductController - GetAllProducts
+INFO  07:34:55 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:17 ProductController - GetAllProducts
+INFO  07:35:17 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:20 ProductController - GetAllProducts
+INFO  07:35:20 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:23 ProductController - GetAllProducts
+INFO  07:35:23 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:27 ProductController - GetAllProducts
+INFO  07:35:27 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:32 ProductController - GetAllProducts
+INFO  07:35:32 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:34 ProductController - GetAllProducts
+INFO  07:35:34 ProductController - GetAllProducts - All Products Fetched
+INFO  07:36:01 ProductController - GetAllProducts
+INFO  07:36:01 ProductController - GetAllProducts - All Products Fetched
+INFO  07:38:24 ProductController - GetAllProducts
+INFO  07:38:24 ProductController - GetAllProducts - All Products Fetched
+INFO  07:40:51 ProductController - GetAllProducts
+INFO  07:40:51 ProductController - GetAllProducts - All Products Fetched
+INFO  07:49:07 ProductController - GetAllProducts
+INFO  07:49:07 ProductController - GetAllProducts - All Products Fetched
+INFO  07:52:05 ProductController - GetAllProducts
+INFO  07:52:05 ProductController - GetAllProducts - All Products Fetched
+INFO  07:54:19 ProductController - GetAllProducts
+INFO  07:54:19 ProductController - GetAllProducts - All Products Fetched
+INFO  07:56:59 ProductController - GetAllProducts
+INFO  07:56:59 ProductController - GetAllProducts - All Products Fetched
+INFO  07:58:38 ProductController - GetAllProducts
+INFO  07:58:38 ProductController - GetAllProducts - All Products Fetched
+INFO  08:21:00 ProductController - GetAllProducts
+INFO  08:21:00 ProductController - GetAllProducts - All Products Fetched
+INFO  08:21:22 ProductController - SearchProductById
+INFO  08:21:22 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  08:22:47 ProductController - GetAllProducts
+INFO  08:22:47 ProductController - GetAllProducts - All Products Fetched
+INFO  08:22:57 ProductController - GetAllProducts
+INFO  08:22:57 ProductController - GetAllProducts - All Products Fetched
+INFO  08:29:30 ProductController - GetAllProducts
+INFO  08:29:30 ProductController - GetAllProducts - All Products Fetched
+INFO  10:22:06 ProductController - GetAllProducts
+INFO  10:22:06 ProductController - GetAllProducts - All Products Fetched
+INFO  10:34:31 ProductController - GetAllProducts
+INFO  10:34:31 ProductController - GetAllProducts - All Products Fetched
+INFO  10:35:15 ProductController - GetAllProducts
+INFO  10:35:15 ProductController - GetAllProducts - All Products Fetched
+INFO  10:37:21 ProductController - GetAllProducts
+INFO  10:37:21 ProductController - GetAllProducts - All Products Fetched
+INFO  10:37:29 ProductController - SearchProductById
+INFO  10:37:29 ProductController - SearchProductById - Search Failed for Product Id: 10
+INFO  10:38:53 ProductController - GetAllProducts
+INFO  10:38:53 ProductController - GetAllProducts - All Products Fetched
+INFO  10:39:18 ProductController - GetAllProducts
+INFO  10:39:18 ProductController - GetAllProducts - All Products Fetched
+INFO  10:39:21 ProductController - GetAllProducts
+INFO  10:39:21 ProductController - GetAllProducts - All Products Fetched
+INFO  10:39:36 ProductController - GetAllProducts
+INFO  10:39:36 ProductController - GetAllProducts - All Products Fetched
+INFO  10:39:43 ProductController - SearchProductById
+INFO  10:39:43 ProductController - SearchProductById - Search Failed for Product Id: 10
+INFO  10:40:16 ProductController - GetAllProducts
+INFO  10:40:16 ProductController - GetAllProducts - All Products Fetched
+INFO  10:40:20 ProductController - SearchProductById
+INFO  10:40:20 ProductController - SearchProductById - Search Failed for Product Id: 10
+INFO  10:40:39 ProductController - GetAllProducts
+INFO  10:40:39 ProductController - GetAllProducts - All Products Fetched
+INFO  10:40:49 ProductController - SearchProductById
+INFO  10:40:49 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  10:43:50 ProductController - GetAllProducts
+INFO  10:43:50 ProductController - GetAllProducts - All Products Fetched
+INFO  10:50:20 ProductController - GetAllProducts
+INFO  10:50:20 ProductController - GetAllProducts - All Products Fetched
+INFO  10:51:00 ProductController - GetAllProducts
+INFO  10:51:00 ProductController - GetAllProducts - All Products Fetched
+INFO  10:51:19 ProductController - GetAllProducts
+INFO  10:51:19 ProductController - GetAllProducts - All Products Fetched
+INFO  10:51:37 ProductController - GetAllProducts
+INFO  10:51:37 ProductController - GetAllProducts - All Products Fetched
+INFO  10:51:38 ProductController - GetAllProducts
+INFO  10:51:38 ProductController - GetAllProducts - All Products Fetched
+INFO  10:51:49 ProductController - GetAllProducts
+INFO  10:51:49 ProductController - GetAllProducts - All Products Fetched
+INFO  10:52:00 ProductController - SearchProductById
+INFO  10:52:00 ProductController - SearchProductById - Search Failed for Product Id: 11
+INFO  10:53:13 ProductController - GetAllProducts
+INFO  10:53:13 ProductController - GetAllProducts - All Products Fetched
+INFO  11:03:20 ProductController - GetAllProducts
+INFO  11:03:20 ProductController - GetAllProducts - All Products Fetched
+INFO  11:03:58 ProductController - GetAllProducts
+INFO  11:03:58 ProductController - GetAllProducts - All Products Fetched
+INFO  11:05:53 ProductController - GetAllProducts
+INFO  11:05:53 ProductController - GetAllProducts - All Products Fetched
+INFO  11:08:28 ProductController - GetAllProducts
+INFO  11:08:28 ProductController - GetAllProducts - All Products Fetched
+INFO  11:09:41 ProductController - GetAllProducts
+INFO  11:09:41 ProductController - GetAllProducts - All Products Fetched
+INFO  11:09:55 ProductController - GetAllProducts
+INFO  11:09:55 ProductController - GetAllProducts - All Products Fetched
+INFO  11:11:40 ProductController - GetAllProducts
+INFO  11:11:40 ProductController - GetAllProducts - All Products Fetched
+INFO  11:11:43 ProductController - GetAllProducts
+INFO  11:11:43 ProductController - GetAllProducts - All Products Fetched
+INFO  11:11:53 ProductController - GetAllProducts
+INFO  11:11:53 ProductController - GetAllProducts - All Products Fetched
+INFO  11:12:20 ProductController - GetAllProducts
+INFO  11:12:20 ProductController - GetAllProducts - All Products Fetched
+INFO  11:12:44 ProductController - GetAllProducts
+INFO  11:12:44 ProductController - GetAllProducts - All Products Fetched
+INFO  11:12:48 ProductController - GetAllProducts
+INFO  11:12:48 ProductController - GetAllProducts - All Products Fetched
+INFO  11:12:54 ProductController - GetAllProducts
+INFO  11:12:54 ProductController - GetAllProducts - All Products Fetched
+INFO  11:12:56 ProductController - GetAllProducts
+INFO  11:12:56 ProductController - GetAllProducts - All Products Fetched
+INFO  11:13:08 ProductController - GetAllProducts
+INFO  11:13:08 ProductController - GetAllProducts - All Products Fetched
+INFO  11:13:16 ProductController - GetAllProducts
+INFO  11:13:16 ProductController - GetAllProducts - All Products Fetched
+INFO  11:13:17 ProductController - GetAllProducts
+INFO  11:13:17 ProductController - GetAllProducts - All Products Fetched
+INFO  11:15:36 ProductController - GetAllProducts
+INFO  11:15:36 ProductController - GetAllProducts - All Products Fetched
+INFO  11:15:46 ProductController - GetAllProducts
+INFO  11:15:46 ProductController - GetAllProducts - All Products Fetched
+INFO  11:15:50 ProductController - GetAllProducts
+INFO  11:15:50 ProductController - GetAllProducts - All Products Fetched
+INFO  11:16:13 ProductController - GetAllProducts
+INFO  11:16:13 ProductController - GetAllProducts - All Products Fetched
+INFO  11:16:16 ProductController - GetAllProducts
+INFO  11:16:16 ProductController - GetAllProducts - All Products Fetched
+INFO  11:16:44 ProductController - GetAllProducts
+INFO  11:16:44 ProductController - GetAllProducts - All Products Fetched
+INFO  11:16:51 ProductController - GetAllProducts
+INFO  11:16:51 ProductController - GetAllProducts - All Products Fetched
+INFO  11:17:46 ProductController - GetAllProducts
+INFO  11:17:46 ProductController - GetAllProducts - All Products Fetched
+INFO  11:18:08 ProductController - GetAllProducts
+INFO  11:18:08 ProductController - GetAllProducts - All Products Fetched
+INFO  11:18:30 ProductController - GetAllProducts
+INFO  11:18:30 ProductController - GetAllProducts - All Products Fetched
+INFO  11:19:33 ProductController - GetAllProducts
+INFO  11:19:33 ProductController - GetAllProducts - All Products Fetched
+INFO  11:19:40 ProductController - GetAllProducts
+INFO  11:19:40 ProductController - GetAllProducts - All Products Fetched
+INFO  11:20:21 ProductController - GetAllProducts
+INFO  11:20:21 ProductController - GetAllProducts - All Products Fetched
+INFO  11:20:23 ProductController - GetAllProducts
+INFO  11:20:23 ProductController - GetAllProducts - All Products Fetched
+INFO  11:20:30 ProductController - GetAllProducts
+INFO  11:20:30 ProductController - GetAllProducts - All Products Fetched
+INFO  11:20:53 ProductController - GetAllProducts
+INFO  11:20:53 ProductController - GetAllProducts - All Products Fetched
+INFO  11:21:10 ProductController - GetAllProducts
+INFO  11:21:10 ProductController - GetAllProducts - All Products Fetched
+INFO  11:21:24 ProductController - GetAllProducts
+INFO  11:21:24 ProductController - GetAllProducts - All Products Fetched
+INFO  11:21:36 ProductController - GetAllProducts
+INFO  11:21:36 ProductController - GetAllProducts - All Products Fetched
+INFO  11:21:51 ProductController - GetAllProducts
+INFO  11:21:51 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:01 ProductController - GetAllProducts
+INFO  11:22:01 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:12 ProductController - GetAllProducts
+INFO  11:22:12 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:24 ProductController - GetAllProducts
+INFO  11:22:24 ProductController - GetAllProducts - All Products Fetched
+INFO  11:22:30 ProductController - SearchProductById
+INFO  11:22:30 ProductController - SearchProductById - Search Failed for Product Id: 123
+INFO  11:23:15 ProductController - GetAllProducts
+INFO  11:23:15 ProductController - GetAllProducts - All Products Fetched
+INFO  11:23:18 ProductController - GetAllProducts
+INFO  11:23:18 ProductController - GetAllProducts - All Products Fetched
+INFO  11:23:27 ProductController - GetAllProducts
+INFO  11:23:27 ProductController - GetAllProducts - All Products Fetched
+INFO  11:23:31 ProductController - GetAllProducts
+INFO  11:23:31 ProductController - GetAllProducts - All Products Fetched
+INFO  11:23:46 ProductController - GetAllProducts
+INFO  11:23:46 ProductController - GetAllProducts - All Products Fetched
+INFO  11:24:04 ProductController - GetAllProducts
+INFO  11:24:04 ProductController - GetAllProducts - All Products Fetched
+INFO  11:24:08 ProductController - GetAllProducts
+INFO  11:24:08 ProductController - GetAllProducts - All Products Fetched
+INFO  11:24:18 ProductController - SearchProductByName
+INFO  11:24:18 ProductController - SearchProductByName - Search Failed for Product Name: dfghfds
+INFO  11:25:05 ProductController - GetAllProducts
+INFO  11:25:05 ProductController - GetAllProducts - All Products Fetched
+INFO  11:27:26 ProductController - GetAllProducts
+INFO  11:27:26 ProductController - GetAllProducts - All Products Fetched
+INFO  11:27:33 ProductController - GetAllProducts
+INFO  11:27:33 ProductController - GetAllProducts - All Products Fetched
+INFO  11:27:40 ProductController - GetAllProducts
+INFO  11:27:40 ProductController - GetAllProducts - All Products Fetched
+INFO  11:29:01 ProductController - GetAllProducts
+INFO  11:29:01 ProductController - GetAllProducts - All Products Fetched
+INFO  11:31:09 ProductController - GetAllProducts
+INFO  11:31:09 ProductController - GetAllProducts - All Products Fetched
+INFO  11:27:17 Application started. Press Ctrl+C to shut down.
+INFO  11:27:17 Hosting environment: Development
+INFO  11:27:17 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  11:55:49 Application started. Press Ctrl+C to shut down.
+INFO  11:55:49 Hosting environment: Development
+INFO  11:55:49 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  02:32:53 Application started. Press Ctrl+C to shut down.
+INFO  02:32:53 Hosting environment: Development
+INFO  02:32:53 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  02:38:02 ProductController - GetAllProducts
+INFO  02:38:04 ProductController - GetAllProducts - All Products Fetched
+INFO  02:38:30 ProductController - SearchProductById
+INFO  02:38:30 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  02:38:55 ProductController - SearchProductByName
+INFO  02:38:55 ProductController - SearchProductByName - Successfuly Searched Product Name: Iqoo7
+INFO  02:39:20 ProductController - SearchProductByName
+INFO  02:39:20 ProductController - SearchProductByName - Search Failed for Product Name: Iq
+INFO  02:40:51 ProductController - GetAllProducts
+INFO  02:40:51 ProductController - GetAllProducts - All Products Fetched
+INFO  02:41:08 ProductController - SearchProductById
+INFO  02:41:08 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  02:57:21 ProductController - GetAllProducts
+INFO  02:57:21 ProductController - GetAllProducts - All Products Fetched
+INFO  02:57:59 ProductController - GetAllProducts
+INFO  02:57:59 ProductController - GetAllProducts - All Products Fetched
+INFO  02:58:59 ProductController - GetAllProducts
+INFO  02:58:59 ProductController - GetAllProducts - All Products Fetched
+INFO  03:03:06 ProductController - GetAllProducts
+INFO  03:03:06 ProductController - GetAllProducts - All Products Fetched
+INFO  03:04:19 ProductController - GetAllProducts
+INFO  03:04:19 ProductController - GetAllProducts - All Products Fetched
+INFO  03:06:39 ProductController - GetAllProducts
+INFO  03:06:39 ProductController - GetAllProducts - All Products Fetched
+INFO  03:08:27 ProductController - GetAllProducts
+INFO  03:08:27 ProductController - GetAllProducts - All Products Fetched
+INFO  03:09:08 ProductController - GetAllProducts
+INFO  03:09:08 ProductController - GetAllProducts - All Products Fetched
+INFO  03:18:32 ProductController - GetAllProducts
+INFO  03:18:32 ProductController - GetAllProducts - All Products Fetched
+INFO  03:18:56 ProductController - GetAllProducts
+INFO  03:18:56 ProductController - GetAllProducts - All Products Fetched
+INFO  03:21:10 ProductController - GetAllProducts
+INFO  03:21:10 ProductController - GetAllProducts - All Products Fetched
+INFO  03:21:21 ProductController - GetAllProducts
+INFO  03:21:21 ProductController - GetAllProducts - All Products Fetched
+INFO  03:21:26 ProductController - GetAllProducts
+INFO  03:21:26 ProductController - GetAllProducts - All Products Fetched
+INFO  03:21:41 ProductController - GetAllProducts
+INFO  03:21:41 ProductController - GetAllProducts - All Products Fetched
+INFO  03:22:33 ProductController - GetAllProducts
+INFO  03:22:33 ProductController - GetAllProducts - All Products Fetched
+INFO  03:23:04 ProductController - GetAllProducts
+INFO  03:23:04 ProductController - GetAllProducts - All Products Fetched
+INFO  03:23:44 ProductController - GetAllProducts
+INFO  03:23:44 ProductController - GetAllProducts - All Products Fetched
+INFO  03:25:08 ProductController - GetAllProducts
+INFO  03:25:08 ProductController - GetAllProducts - All Products Fetched
+INFO  03:25:42 ProductController - GetAllProducts
+INFO  03:25:42 ProductController - GetAllProducts - All Products Fetched
+INFO  03:27:54 ProductController - GetAllProducts
+INFO  03:27:54 ProductController - GetAllProducts - All Products Fetched
+INFO  03:30:59 ProductController - GetAllProducts
+INFO  03:30:59 ProductController - GetAllProducts - All Products Fetched
+INFO  03:32:01 ProductController - GetAllProducts
+INFO  03:32:01 ProductController - GetAllProducts - All Products Fetched
+INFO  03:43:15 ProductController - GetAllProducts
+INFO  03:43:15 ProductController - GetAllProducts - All Products Fetched
+INFO  03:43:24 ProductController - GetAllProducts
+INFO  03:43:24 ProductController - GetAllProducts - All Products Fetched
+INFO  03:43:32 ProductController - SearchProductByName
+INFO  03:43:32 ProductController - SearchProductByName - Search Failed for Product Name: re
+INFO  03:47:05 ProductController - GetAllProducts
+INFO  03:47:05 ProductController - GetAllProducts - All Products Fetched
+INFO  03:48:29 ProductController - GetAllProducts
+INFO  03:48:29 ProductController - GetAllProducts - All Products Fetched
+INFO  03:53:49 ProductController - GetAllProducts
+INFO  03:53:49 ProductController - GetAllProducts - All Products Fetched
+INFO  03:55:29 ProductController - GetAllProducts
+INFO  03:55:29 ProductController - GetAllProducts - All Products Fetched
+INFO  03:55:53 ProductController - GetAllProducts
+INFO  03:55:53 ProductController - GetAllProducts - All Products Fetched
+INFO  04:09:48 ProductController - GetAllProducts
+INFO  04:09:48 ProductController - GetAllProducts - All Products Fetched
+INFO  04:10:33 ProductController - GetAllProducts
+INFO  04:10:33 ProductController - GetAllProducts - All Products Fetched
+INFO  04:12:04 ProductController - GetAllProducts
+INFO  04:12:04 ProductController - GetAllProducts - All Products Fetched
+INFO  04:13:55 ProductController - GetAllProducts
+INFO  04:13:55 ProductController - GetAllProducts - All Products Fetched
+INFO  04:27:47 ProductController - GetAllProducts
+INFO  04:27:47 ProductController - GetAllProducts - All Products Fetched
+INFO  04:56:12 ProductController - GetAllProducts
+INFO  04:56:13 ProductController - GetAllProducts - All Products Fetched
+INFO  04:57:32 ProductController - GetAllProducts
+INFO  04:57:32 ProductController - GetAllProducts - All Products Fetched
+INFO  04:57:45 ProductController - GetAllProducts
+INFO  04:57:45 ProductController - GetAllProducts - All Products Fetched
+INFO  05:18:11 ProductController - GetAllProducts
+INFO  05:18:11 ProductController - GetAllProducts - All Products Fetched
+INFO  05:19:23 ProductController - GetAllProducts
+INFO  05:19:23 ProductController - GetAllProducts - All Products Fetched
+INFO  05:24:53 ProductController - GetAllProducts
+INFO  05:24:53 ProductController - GetAllProducts - All Products Fetched
+INFO  05:25:10 ProductController - GetAllProducts
+INFO  05:25:10 ProductController - GetAllProducts - All Products Fetched
+INFO  05:25:14 ProductController - SearchProductById
+INFO  05:25:14 ProductController - SearchProductById - Successfuly Searched Product Id: 1
+INFO  05:25:26 ProductController - SearchProductById
+INFO  05:25:26 ProductController - SearchProductById - Search Failed for Product Id: 12
+INFO  05:26:26 ProductController - GetAllProducts
+INFO  05:26:26 ProductController - GetAllProducts - All Products Fetched
+INFO  05:32:42 ProductController - GetAllProducts
+INFO  05:32:42 ProductController - GetAllProducts - All Products Fetched
+INFO  05:33:57 ProductController - GetAllProducts
+INFO  05:33:57 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:13 ProductController - GetAllProducts
+INFO  05:34:13 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:23 ProductController - GetAllProducts
+INFO  05:34:23 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:25 ProductController - GetAllProducts
+INFO  05:34:25 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:27 ProductController - GetAllProducts
+INFO  05:34:27 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:30 ProductController - GetAllProducts
+INFO  05:34:30 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:32 ProductController - GetAllProducts
+INFO  05:34:32 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:51 ProductController - GetAllProducts
+INFO  05:34:51 ProductController - GetAllProducts - All Products Fetched
+INFO  05:34:58 ProductController - GetAllProducts
+INFO  05:34:58 ProductController - GetAllProducts - All Products Fetched
+INFO  05:35:03 ProductController - GetAllProducts
+INFO  05:35:03 ProductController - GetAllProducts - All Products Fetched
+INFO  05:35:09 ProductController - GetAllProducts
+INFO  05:35:09 ProductController - GetAllProducts - All Products Fetched
+INFO  05:35:42 ProductController - GetAllProducts
+INFO  05:35:42 ProductController - GetAllProducts - All Products Fetched
+INFO  05:40:39 ProductController - GetAllProducts
+INFO  05:40:39 ProductController - GetAllProducts - All Products Fetched
+INFO  05:43:49 ProductController - GetAllProducts
+INFO  05:43:49 ProductController - GetAllProducts - All Products Fetched
+INFO  05:45:46 ProductController - GetAllProducts
+INFO  05:45:46 ProductController - GetAllProducts - All Products Fetched
+INFO  05:50:11 ProductController - GetAllProducts
+INFO  05:50:11 ProductController - GetAllProducts - All Products Fetched
+INFO  05:55:22 ProductController - GetAllProducts
+INFO  05:55:22 ProductController - GetAllProducts - All Products Fetched
+INFO  05:55:28 ProductController - GetAllProducts
+INFO  05:55:28 ProductController - GetAllProducts - All Products Fetched
+INFO  05:55:33 ProductController - GetAllProducts
+INFO  05:55:33 ProductController - GetAllProducts - All Products Fetched
+INFO  05:56:49 ProductController - GetAllProducts
+INFO  05:56:49 ProductController - GetAllProducts - All Products Fetched
+INFO  05:58:58 ProductController - GetAllProducts
+INFO  05:58:58 ProductController - GetAllProducts - All Products Fetched
+INFO  06:01:27 ProductController - GetAllProducts
+INFO  06:01:27 ProductController - GetAllProducts - All Products Fetched
+INFO  06:02:46 ProductController - GetAllProducts
+INFO  06:02:46 ProductController - GetAllProducts - All Products Fetched
+INFO  06:03:40 ProductController - GetAllProducts
+INFO  06:03:40 ProductController - GetAllProducts - All Products Fetched
+INFO  06:04:31 ProductController - GetAllProducts
+INFO  06:04:31 ProductController - GetAllProducts - All Products Fetched
+INFO  06:04:33 ProductController - GetAllProducts
+INFO  06:04:33 ProductController - GetAllProducts - All Products Fetched
+INFO  06:05:44 ProductController - GetAllProducts
+INFO  06:05:44 ProductController - GetAllProducts - All Products Fetched
+INFO  06:06:21 ProductController - GetAllProducts
+INFO  06:06:21 ProductController - GetAllProducts - All Products Fetched
+INFO  06:06:24 ProductController - GetAllProducts
+INFO  06:06:24 ProductController - GetAllProducts - All Products Fetched
+INFO  06:06:29 ProductController - GetAllProducts
+INFO  06:06:29 ProductController - GetAllProducts - All Products Fetched
+INFO  06:18:21 ProductController - GetAllProducts
+INFO  06:18:21 ProductController - GetAllProducts - All Products Fetched
+INFO  06:18:22 ProductController - GetAllProducts
+INFO  06:18:22 ProductController - GetAllProducts - All Products Fetched
+INFO  06:18:28 ProductController - GetAllProducts
+INFO  06:18:28 ProductController - GetAllProducts - All Products Fetched
+INFO  07:16:47 ProductController - GetAllProducts
+INFO  07:16:47 ProductController - GetAllProducts - All Products Fetched
+INFO  07:21:45 ProductController - GetAllProducts
+INFO  07:21:45 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:07 ProductController - GetAllProducts
+INFO  07:35:07 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:16 ProductController - GetAllProducts
+INFO  07:35:16 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:18 ProductController - GetAllProducts
+INFO  07:35:18 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:38 ProductController - GetAllProducts
+INFO  07:35:38 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:40 ProductController - GetAllProducts
+INFO  07:35:40 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:49 ProductController - GetAllProducts
+INFO  07:35:49 ProductController - GetAllProducts - All Products Fetched
+INFO  07:35:54 ProductController - GetAllProducts
+INFO  07:35:54 ProductController - GetAllProducts - All Products Fetched
+INFO  07:36:03 ProductController - GetAllProducts
+INFO  07:36:03 ProductController - GetAllProducts - All Products Fetched
+INFO  07:36:07 ProductController - GetAllProducts
+INFO  07:36:07 ProductController - GetAllProducts - All Products Fetched
+INFO  07:39:07 ProductController - GetAllProducts
+INFO  07:39:07 ProductController - GetAllProducts - All Products Fetched
+INFO  07:39:57 ProductController - GetAllProducts
+INFO  07:39:57 ProductController - GetAllProducts - All Products Fetched
+INFO  08:54:59 ProductController - GetAllProducts
+INFO  08:54:59 ProductController - GetAllProducts - All Products Fetched
+INFO  09:24:13 ProductController - GetAllProducts
+INFO  09:24:13 ProductController - GetAllProducts - All Products Fetched
+INFO  09:24:15 ProductController - GetAllProducts
+INFO  09:24:15 ProductController - GetAllProducts - All Products Fetched
+INFO  09:24:20 ProductController - GetAllProducts
+INFO  09:24:20 ProductController - GetAllProducts - All Products Fetched
+INFO  09:26:07 ProductController - GetAllProducts
+INFO  09:26:07 ProductController - GetAllProducts - All Products Fetched
+INFO  09:27:33 ProductController - GetAllProducts
+INFO  09:27:33 ProductController - GetAllProducts - All Products Fetched
+INFO  09:51:38 ProductController - GetAllProducts
+INFO  09:51:38 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:11 ProductController - GetAllProducts
+INFO  09:54:11 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:18 ProductController - GetAllProducts
+INFO  09:54:18 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:24 ProductController - GetAllProducts
+INFO  09:54:24 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:33 ProductController - GetAllProducts
+INFO  09:54:33 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:35 ProductController - GetAllProducts
+INFO  09:54:35 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:38 ProductController - GetAllProducts
+INFO  09:54:38 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:39 ProductController - GetAllProducts
+INFO  09:54:39 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:40 ProductController - GetAllProducts
+INFO  09:54:40 ProductController - GetAllProducts - All Products Fetched
+INFO  09:54:50 ProductController - GetAllProducts
+INFO  09:54:50 ProductController - GetAllProducts - All Products Fetched
+INFO  09:55:02 ProductController - GetAllProducts
+INFO  09:55:02 ProductController - GetAllProducts - All Products Fetched
+INFO  09:55:24 ProductController - GetAllProducts
+INFO  09:55:24 ProductController - GetAllProducts - All Products Fetched
+INFO  09:55:58 ProductController - GetAllProducts
+INFO  09:55:58 ProductController - GetAllProducts - All Products Fetched
+INFO  09:56:03 ProductController - GetAllProducts
+INFO  09:56:03 ProductController - GetAllProducts - All Products Fetched
+INFO  09:57:18 ProductController - GetAllProducts
+INFO  09:57:18 ProductController - GetAllProducts - All Products Fetched
+INFO  09:58:06 ProductController - GetAllProducts
+INFO  09:58:06 ProductController - GetAllProducts - All Products Fetched
+INFO  10:00:25 ProductController - GetAllProducts
+INFO  10:00:25 ProductController - GetAllProducts - All Products Fetched
+INFO  10:00:39 ProductController - GetAllProducts
+INFO  10:00:40 ProductController - GetAllProducts - All Products Fetched
+INFO  10:01:24 ProductController - GetAllProducts
+INFO  10:01:24 ProductController - GetAllProducts - All Products Fetched
+INFO  10:02:07 ProductController - GetAllProducts
+INFO  10:02:07 ProductController - GetAllProducts - All Products Fetched
+INFO  10:02:22 ProductController - GetAllProducts
+INFO  10:02:22 ProductController - GetAllProducts - All Products Fetched
+INFO  10:03:09 ProductController - GetAllProducts
+INFO  10:03:09 ProductController - GetAllProducts - All Products Fetched
+INFO  10:03:11 ProductController - GetAllProducts
+INFO  10:03:11 ProductController - GetAllProducts - All Products Fetched
+INFO  10:03:28 ProductController - GetAllProducts
+INFO  10:03:28 ProductController - GetAllProducts - All Products Fetched
+INFO  10:05:43 ProductController - GetAllProducts
+INFO  10:05:43 ProductController - GetAllProducts - All Products Fetched
+INFO  10:09:15 ProductController - GetAllProducts
+INFO  10:09:15 ProductController - GetAllProducts - All Products Fetched
+INFO  10:13:58 ProductController - GetAllProducts
+INFO  10:13:58 ProductController - GetAllProducts - All Products Fetched
+INFO  10:42:05 ProductController - GetAllProducts
+INFO  10:42:05 ProductController - GetAllProducts - All Products Fetched
+INFO  10:44:59 ProductController - GetAllProducts
+INFO  10:44:59 ProductController - GetAllProducts - All Products Fetched
+INFO  10:46:15 ProductController - GetAllProducts
+INFO  10:46:15 ProductController - GetAllProducts - All Products Fetched
+INFO  10:49:22 ProductController - GetAllProducts
+INFO  10:49:22 ProductController - GetAllProducts - All Products Fetched
+INFO  10:56:17 ProductController - GetAllProducts
+INFO  10:56:17 ProductController - GetAllProducts - All Products Fetched
+INFO  11:08:47 ProductController - GetAllProducts
+INFO  11:08:47 ProductController - GetAllProducts - All Products Fetched
+INFO  11:11:25 ProductController - GetAllProducts
+INFO  11:11:25 ProductController - GetAllProducts - All Products Fetched
+INFO  11:15:41 ProductController - GetAllProducts
+INFO  11:15:41 ProductController - GetAllProducts - All Products Fetched
+INFO  11:16:20 ProductController - GetAllProducts
+INFO  11:16:20 ProductController - GetAllProducts - All Products Fetched
+INFO  11:20:25 ProductController - GetAllProducts
+INFO  11:20:25 ProductController - GetAllProducts - All Products Fetched
+INFO  11:30:39 ProductController - GetAllProducts
+INFO  11:30:39 ProductController - GetAllProducts - All Products Fetched
+INFO  11:36:24 ProductController - GetAllProducts
+INFO  11:36:24 ProductController - GetAllProducts - All Products Fetched
+INFO  11:58:55 ProductController - GetAllProducts
+INFO  11:58:55 ProductController - GetAllProducts - All Products Fetched
+INFO  12:03:34 ProductController - GetAllProducts
+INFO  12:03:34 ProductController - GetAllProducts - All Products Fetched
+INFO  12:05:00 ProductController - GetAllProducts
+INFO  12:05:00 ProductController - GetAllProducts - All Products Fetched
+INFO  12:07:22 ProductController - GetAllProducts
+INFO  12:07:22 ProductController - GetAllProducts - All Products Fetched
+INFO  12:07:44 ProductController - GetAllProducts
+INFO  12:07:44 ProductController - GetAllProducts - All Products Fetched
+INFO  12:07:59 ProductController - GetAllProducts
+INFO  12:07:59 ProductController - GetAllProducts - All Products Fetched
+INFO  12:09:25 ProductController - GetAllProducts
+INFO  12:09:25 ProductController - GetAllProducts - All Products Fetched
+INFO  12:09:42 ProductController - GetAllProducts
+INFO  12:09:42 ProductController - GetAllProducts - All Products Fetched
+INFO  12:11:15 ProductController - GetAllProducts
+INFO  12:11:15 ProductController - GetAllProducts - All Products Fetched
+INFO  12:30:17 ProductController - GetAllProducts
+INFO  12:30:17 ProductController - GetAllProducts - All Products Fetched
+INFO  12:30:19 ProductController - SearchProductById
+INFO  12:30:19 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  12:31:28 ProductController - GetAllProducts
+INFO  12:31:28 ProductController - GetAllProducts - All Products Fetched
+INFO  12:32:22 ProductController - GetAllProducts
+INFO  12:32:22 ProductController - GetAllProducts - All Products Fetched
+INFO  12:36:08 ProductController - GetAllProducts
+INFO  12:36:09 ProductController - GetAllProducts - All Products Fetched
+INFO  12:36:51 ProductController - GetAllProducts
+INFO  12:36:51 ProductController - GetAllProducts - All Products Fetched
+INFO  12:37:01 ProductController - GetAllProducts
+INFO  12:37:01 ProductController - GetAllProducts - All Products Fetched
+INFO  12:37:09 ProductController - SearchProductById
+INFO  12:37:09 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  12:37:54 ProductController - GetAllProducts
+INFO  12:37:54 ProductController - GetAllProducts - All Products Fetched
+INFO  12:38:08 ProductController - GetAllProducts
+INFO  12:38:08 ProductController - GetAllProducts - All Products Fetched
+INFO  12:38:10 ProductController - SearchProductById
+INFO  12:38:10 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  12:38:38 ProductController - SearchProductById
+INFO  12:38:38 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  12:38:59 ProductController - GetAllProducts
+INFO  12:38:59 ProductController - GetAllProducts - All Products Fetched
+INFO  12:39:03 ProductController - SearchProductById
+INFO  12:39:03 ProductController - SearchProductById - Search Failed for Product Id: 0
+INFO  12:40:24 ProductController - GetAllProducts
+INFO  12:40:24 ProductController - GetAllProducts - All Products Fetched
+INFO  12:41:48 ProductController - GetAllProducts
+INFO  12:41:48 ProductController - GetAllProducts - All Products Fetched
+INFO  12:42:49 ProductController - GetAllProducts
+INFO  12:42:49 ProductController - GetAllProducts - All Products Fetched
+INFO  12:43:22 ProductController - GetAllProducts
+INFO  12:43:22 ProductController - GetAllProducts - All Products Fetched
+INFO  12:44:08 ProductController - GetAllProducts
+INFO  12:44:08 ProductController - GetAllProducts - All Products Fetched
+INFO  12:44:17 ProductController - GetAllProducts
+INFO  12:44:17 ProductController - GetAllProducts - All Products Fetched
+INFO  12:45:00 ProductController - GetAllProducts
+INFO  12:45:00 ProductController - GetAllProducts - All Products Fetched
+INFO  12:45:18 ProductController - GetAllProducts
+INFO  12:45:18 ProductController - GetAllProducts - All Products Fetched
+INFO  12:45:44 ProductController - GetAllProducts
+INFO  12:45:44 ProductController - GetAllProducts - All Products Fetched
+INFO  10:55:12 Application started. Press Ctrl+C to shut down.
+INFO  10:55:12 Hosting environment: Development
+INFO  10:55:12 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  10:58:07 ProductController - GetAllProducts
+INFO  10:58:08 ProductController - GetAllProducts - All Products Fetched
+INFO  10:59:07 ProductController - GetAllProducts
+INFO  10:59:07 ProductController - GetAllProducts - All Products Fetched
+INFO  10:59:14 ProductController - GetAllProducts
+INFO  10:59:14 ProductController - GetAllProducts - All Products Fetched
+INFO  11:00:41 ProductController - GetAllProducts
+INFO  11:00:41 ProductController - GetAllProducts - All Products Fetched
+INFO  11:03:09 ProductController - GetAllProducts
+INFO  11:03:09 ProductController - GetAllProducts - All Products Fetched
+INFO  11:03:21 ProductController - GetAllProducts
+INFO  11:03:21 ProductController - GetAllProducts - All Products Fetched
+INFO  11:03:52 ProductController - GetAllProducts
+INFO  11:03:52 ProductController - GetAllProducts - All Products Fetched
+INFO  11:13:46 ProductController - GetAllProducts
+INFO  11:13:46 ProductController - GetAllProducts - All Products Fetched
+INFO  11:17:31 ProductController - GetAllProducts
+INFO  11:17:31 ProductController - GetAllProducts - All Products Fetched
+INFO  11:19:36 ProductController - GetAllProducts
+INFO  11:19:36 ProductController - GetAllProducts - All Products Fetched
+INFO  11:31:41 ProductController - GetAllProducts
+INFO  11:31:41 ProductController - GetAllProducts - All Products Fetched
+INFO  11:32:39 ProductController - GetAllProducts
+INFO  11:32:39 ProductController - GetAllProducts - All Products Fetched
+INFO  11:35:35 ProductController - GetAllProducts
+INFO  11:35:35 ProductController - GetAllProducts - All Products Fetched
+INFO  11:49:59 ProductController - GetAllProducts
+INFO  11:49:59 ProductController - GetAllProducts - All Products Fetched
+INFO  11:56:49 ProductController - GetAllProducts
+INFO  11:56:49 ProductController - GetAllProducts - All Products Fetched
+INFO  12:04:51 ProductController - GetAllProducts
+INFO  12:04:51 ProductController - GetAllProducts - All Products Fetched
+INFO  12:15:40 ProductController - GetAllProducts
+INFO  12:15:40 ProductController - GetAllProducts - All Products Fetched
+INFO  12:28:11 ProductController - GetAllProducts
+INFO  12:28:11 ProductController - GetAllProducts - All Products Fetched
+INFO  12:31:56 ProductController - GetAllProducts
+INFO  12:31:56 ProductController - GetAllProducts - All Products Fetched
+INFO  12:33:02 ProductController - GetAllProducts
+INFO  12:33:02 ProductController - GetAllProducts - All Products Fetched
+INFO  12:36:58 ProductController - GetAllProducts
+INFO  12:36:58 ProductController - GetAllProducts - All Products Fetched
+INFO  12:38:48 ProductController - GetAllProducts
+INFO  12:38:48 ProductController - GetAllProducts - All Products Fetched
+INFO  12:53:42 ProductController - GetAllProducts
+INFO  12:53:42 ProductController - GetAllProducts - All Products Fetched
+INFO  12:56:24 ProductController - GetAllProducts
+INFO  12:56:24 ProductController - GetAllProducts - All Products Fetched
+INFO  12:56:56 ProductController - GetAllProducts
+INFO  12:56:56 ProductController - GetAllProducts - All Products Fetched
+INFO  12:58:03 ProductController - GetAllProducts
+INFO  12:58:03 ProductController - GetAllProducts - All Products Fetched
+INFO  12:59:37 ProductController - GetAllProducts
+INFO  12:59:37 ProductController - GetAllProducts - All Products Fetched
+INFO  01:00:24 ProductController - GetAllProducts
+INFO  01:00:24 ProductController - GetAllProducts - All Products Fetched
+INFO  01:19:21 ProductController - GetAllProducts
+INFO  01:19:21 ProductController - GetAllProducts - All Products Fetched
+INFO  01:20:16 ProductController - GetAllProducts
+INFO  01:20:16 ProductController - GetAllProducts - All Products Fetched
+INFO  01:21:03 ProductController - GetAllProducts
+INFO  01:21:03 ProductController - GetAllProducts - All Products Fetched
+INFO  01:21:49 ProductController - GetAllProducts
+INFO  01:21:49 ProductController - GetAllProducts - All Products Fetched
+INFO  01:22:03 ProductController - GetAllProducts
+INFO  01:22:03 ProductController - GetAllProducts - All Products Fetched
+INFO  01:22:21 ProductController - GetAllProducts
+INFO  01:22:21 ProductController - GetAllProducts - All Products Fetched
+INFO  01:22:35 ProductController - GetAllProducts
+INFO  01:22:35 ProductController - GetAllProducts - All Products Fetched
+INFO  01:22:43 ProductController - GetAllProducts
+INFO  01:22:43 ProductController - GetAllProducts - All Products Fetched
+INFO  01:22:47 ProductController - GetAllProducts
+INFO  01:22:47 ProductController - GetAllProducts - All Products Fetched
+INFO  01:23:06 ProductController - GetAllProducts
+INFO  01:23:06 ProductController - GetAllProducts - All Products Fetched
+INFO  01:23:49 ProductController - GetAllProducts
+INFO  01:23:49 ProductController - GetAllProducts - All Products Fetched
+INFO  01:24:15 ProductController - GetAllProducts
+INFO  01:24:15 ProductController - GetAllProducts - All Products Fetched
+INFO  01:24:55 ProductController - GetAllProducts
+INFO  01:24:55 ProductController - GetAllProducts - All Products Fetched
+INFO  01:29:49 ProductController - GetAllProducts
+INFO  01:29:49 ProductController - GetAllProducts - All Products Fetched
+INFO  01:30:03 ProductController - GetAllProducts
+INFO  01:30:03 ProductController - GetAllProducts - All Products Fetched
+INFO  01:30:27 ProductController - GetAllProducts
+INFO  01:30:27 ProductController - GetAllProducts - All Products Fetched
+INFO  01:31:14 ProductController - GetAllProducts
+INFO  01:31:14 ProductController - GetAllProducts - All Products Fetched
+INFO  01:31:56 ProductController - GetAllProducts
+INFO  01:31:56 ProductController - GetAllProducts - All Products Fetched
+INFO  01:32:28 ProductController - GetAllProducts
+INFO  01:32:28 ProductController - GetAllProducts - All Products Fetched
+INFO  01:44:32 ProductController - GetAllProducts
+INFO  01:44:32 ProductController - GetAllProducts - All Products Fetched
+INFO  01:44:49 ProductController - GetAllProducts
+INFO  01:44:49 ProductController - GetAllProducts - All Products Fetched
+INFO  02:19:45 ProductController - GetAllProducts
+INFO  02:19:46 ProductController - GetAllProducts - All Products Fetched
+INFO  02:25:10 ProductController - GetAllProducts
+INFO  02:25:10 ProductController - GetAllProducts - All Products Fetched
+INFO  02:25:47 ProductController - GetAllProducts
+INFO  02:25:47 ProductController - GetAllProducts - All Products Fetched
+INFO  02:54:52 ProductController - GetAllProducts
+INFO  02:54:53 ProductController - GetAllProducts - All Products Fetched
+INFO  02:55:01 ProductController - SearchProductByName
+INFO  02:55:01 ProductController - SearchProductByName - Search Failed for Product Name: re
+INFO  02:55:26 ProductController - SearchProductByName
+INFO  02:55:26 ProductController - SearchProductByName - Search Failed for Product Name: re
+INFO  02:55:34 ProductController - SearchProductByName
+INFO  02:55:34 ProductController - SearchProductByName - Search Failed for Product Name: Re
+INFO  02:57:31 ProductController - GetAllProducts
+INFO  02:57:31 ProductController - GetAllProducts - All Products Fetched
+INFO  02:57:52 ProductController - SearchProductByName
+INFO  02:57:52 ProductController - SearchProductByName - Search Failed for Product Name: re
+INFO  02:57:58 ProductController - SearchProductByName
+INFO  02:57:58 ProductController - SearchProductByName - Search Failed for Product Name: Re
+INFO  02:58:08 ProductController - SearchProductByName
+INFO  02:58:08 ProductController - SearchProductByName - Search Failed for Product Name: Red
+INFO  03:01:47 Application started. Press Ctrl+C to shut down.
+INFO  03:01:47 Hosting environment: Development
+INFO  03:01:47 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:01:56 ProductController - SearchProductByName
+INFO  03:02:07 ProductController - SearchProductByName
+INFO  03:08:16 Application started. Press Ctrl+C to shut down.
+INFO  03:08:16 Hosting environment: Development
+INFO  03:08:16 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:08:25 ProductController - SearchProductByName
+INFO  03:08:33 ProductController - SearchProductByName
+INFO  03:08:38 ProductController - SearchProductByName
+INFO  03:08:46 ProductController - SearchProductByName
+INFO  03:08:54 ProductController - SearchProductByName
+INFO  03:08:55 ProductController - SearchProductByName
+INFO  03:08:56 ProductController - SearchProductByName
+INFO  03:08:56 ProductController - SearchProductByName
+INFO  03:08:59 ProductController - SearchProductByName
+INFO  03:10:09 Application started. Press Ctrl+C to shut down.
+INFO  03:10:09 Hosting environment: Development
+INFO  03:10:09 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  03:38:38 ProductController - GetAllProducts
+INFO  03:38:38 ProductController - GetAllProducts - All Products Fetched
+INFO  03:41:41 ProductController - GetAllProducts
+INFO  03:41:41 ProductController - GetAllProducts - All Products Fetched
+INFO  03:44:32 ProductController - GetAllProducts
+INFO  03:44:32 ProductController - GetAllProducts - All Products Fetched
+INFO  03:45:13 ProductController - GetAllProducts
+INFO  03:45:13 ProductController - GetAllProducts - All Products Fetched
+INFO  03:46:53 ProductController - GetAllProducts
+INFO  03:46:53 ProductController - GetAllProducts - All Products Fetched
+INFO  03:47:11 ProductController - GetAllProducts
+INFO  03:47:11 ProductController - GetAllProducts - All Products Fetched
+INFO  03:49:33 ProductController - GetAllProducts
+INFO  03:49:33 ProductController - GetAllProducts - All Products Fetched
+INFO  03:55:52 ProductController - AddProductRating
+INFO  03:55:52 ProductController - AddProductRating
+INFO  03:55:52 ProductController - AddProductRating
+INFO  03:56:46 ProductController - GetAllProducts
+INFO  03:56:47 ProductController - GetAllProducts - All Products Fetched
+INFO  03:57:31 ProductController - GetAllProducts
+INFO  03:57:31 ProductController - GetAllProducts - All Products Fetched
+INFO  03:57:53 ProductController - GetAllProducts
+INFO  03:57:53 ProductController - GetAllProducts - All Products Fetched
+INFO  03:58:21 ProductController - GetAllProducts
+INFO  03:58:21 ProductController - GetAllProducts - All Products Fetched
+INFO  03:59:25 ProductController - GetAllProducts
+INFO  03:59:25 ProductController - GetAllProducts - All Products Fetched
+INFO  04:00:28 ProductController - GetAllProducts
+INFO  04:00:28 ProductController - GetAllProducts - All Products Fetched
+INFO  04:03:02 ProductController - GetAllProducts
+INFO  04:03:02 ProductController - GetAllProducts - All Products Fetched
+INFO  04:20:39 ProductController - GetAllProducts
+INFO  04:20:39 ProductController - GetAllProducts - All Products Fetched
+INFO  04:21:32 ProductController - GetAllProducts
+INFO  04:21:32 ProductController - GetAllProducts - All Products Fetched
+INFO  04:21:47 ProductController - GetAllProducts
+INFO  04:21:47 ProductController - GetAllProducts - All Products Fetched
+INFO  04:22:41 ProductController - GetAllProducts
+INFO  04:22:41 ProductController - GetAllProducts - All Products Fetched
+INFO  04:23:33 ProductController - GetAllProducts
+INFO  04:23:33 ProductController - GetAllProducts - All Products Fetched
+INFO  04:31:00 ProductController - GetAllProducts
+INFO  04:31:01 ProductController - GetAllProducts - All Products Fetched
+INFO  04:38:10 ProductController - GetAllProducts
+INFO  04:38:10 ProductController - GetAllProducts - All Products Fetched
+INFO  06:45:08 ProductController - GetAllProducts
+INFO  06:45:08 ProductController - GetAllProducts - All Products Fetched
+INFO  11:14:19 Application started. Press Ctrl+C to shut down.
+INFO  11:14:19 Hosting environment: Development
+INFO  11:14:19 Content root path: C:\Users\2063635\source\repos\ProductMicroservice
+INFO  11:14:27 ProductController - GetAllProducts
+INFO  11:14:30 ProductController - GetAllProducts - All Products Fetched
+INFO  11:14:43 ProductController - SearchProductById
+INFO  11:14:43 ProductController - SearchProductById - Successfuly Searched Product Id: 1
