@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: productrepos
-        image: samplectr.azurecr.io/productrepos:latest
+        image: productctr.azurecr.io/productrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
